@@ -162,14 +162,16 @@ test("record readouts, theme persistence, reduced motion, and living panel behav
   await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
   await page.goto("/");
   await page
-    .getByRole("button", { name: "Follow the light: open information panel" })
+    .getByRole("button", {
+      name: "LIGHT: Follow the light: open information panel",
+    })
     .click();
   await expect(page.getByRole("dialog")).toBeVisible();
   await page.keyboard.press("Escape");
   await expect(page.getByRole("dialog")).toHaveCount(0);
   await expect(
     page.getByRole("button", {
-      name: "Follow the light: open information panel",
+      name: "LIGHT: Follow the light: open information panel",
     }),
   ).toBeFocused();
   await page.emulateMedia({ reducedMotion: "reduce" });

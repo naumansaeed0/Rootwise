@@ -56,30 +56,7 @@ for (const theme of ["dark", "light"])
         })),
       })),
     );
-    // The user explicitly protects src/living-plant/. Keep this inherited
-    // visible ROOTS / accessible-name mismatch in the raw report and assert its
-    // exact shape instead of suppressing that rule across the site.
-    const expected = [
-      {
-        route: "index.html",
-        id: "label-content-name-mismatch",
-        target: ".node-roots",
-      },
-    ];
-    const unexpected = violations.filter(
-      (v) =>
-        !expected.some(
-          (e) =>
-            e.route === v.route &&
-            e.id === v.id &&
-            v.nodes.length === 1 &&
-            v.nodes[0].target[0] === e.target,
-        ),
-    );
-    expect(unexpected, JSON.stringify(unexpected, null, 2)).toEqual([]);
-    expect(
-      violations.filter((v) => v.id === "label-content-name-mismatch"),
-    ).toHaveLength(1);
+    expect(violations, JSON.stringify(violations, null, 2)).toEqual([]);
   });
 test("responsive screenshots and overflow checks", async ({ page }) => {
   await mkdir("/workspace/shared/rootwise-round2", { recursive: true });

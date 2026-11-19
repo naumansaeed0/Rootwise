@@ -260,7 +260,7 @@ export function LivingPlant() {
               key={n.id}
               className={`plant-node node-${n.id}`}
               style={{ left: `${n.x}%`, top: `${n.y}%` }}
-              aria-label={`${n.label}: open information panel`}
+              aria-label={`${n.tag}: ${n.label}: open information panel`}
               onClick={() => setActive(n.id)}
             >
               <span className="node-ring">
