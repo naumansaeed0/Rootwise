@@ -40,7 +40,7 @@ The existing canopy/forest/desert/bloom variables remain the color source. Solid
 
 ### Lighthouse mobile
 
-Measured against the final prerendered production build on a local static Vite preview. **Lighthouse 13.6.0, headless Chromium 156, simulated mobile throttling: 150 ms RTT, 1638.4 Kbps throughput, 4× CPU slowdown.** These are single lab runs, not field data or a physical-device benchmark. The final raw JSON and HTML reports are committed under `docs/audits/`.
+Measured against the final prerendered production build on a local static Vite preview. **Lighthouse 13.6.0, headless Chromium 156, simulated mobile throttling: 150 ms RTT, 1638.4 Kbps throughput, 4× CPU slowdown.** These are single lab runs, not field data or a physical-device benchmark. The final raw JSON and HTML reports are committed under `docs/lighthouse/` (Lighthouse) and `docs/audits/` (browser/axe).
 
 | Page    | Performance | Accessibility | Best practices | SEO | Experimental agentic browsing |
 | ------- | ----------: | ------------: | -------------: | --: | ----------------------------: |

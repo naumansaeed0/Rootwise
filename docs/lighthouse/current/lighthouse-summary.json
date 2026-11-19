@@ -1,0 +1,204 @@
+[
+  {
+    "page": "home",
+    "url": "http://127.0.0.1:4174/index.html",
+    "fetchTime": "2026-11-19T10:22:28.080Z",
+    "lighthouseVersion": "13.6.0",
+    "formFactor": "mobile",
+    "throttlingMethod": "simulate",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 50
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 753.5328,
+        "display": "0.8 s"
+      },
+      "largest-contentful-paint": {
+        "value": 1740.5328,
+        "display": "1.7 s"
+      },
+      "total-blocking-time": {
+        "value": 44.733600000000024,
+        "display": "40 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.001807871027853166,
+        "display": "0.002"
+      },
+      "speed-index": {
+        "value": 753.5328,
+        "display": "0.8 s"
+      }
+    },
+    "failedAudits": [
+      {
+        "id": "max-potential-fid",
+        "score": 0.83,
+        "title": "Max Potential First Input Delay"
+      },
+      {
+        "id": "llms-txt",
+        "score": 0,
+        "title": "llms.txt does not follow recommendations"
+      },
+      {
+        "id": "ard-schema",
+        "score": 0,
+        "title": "ARD manifest is invalid"
+      },
+      {
+        "id": "forced-reflow-insight",
+        "score": 0,
+        "title": "Forced reflow"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree"
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0,
+        "title": "Render-blocking requests"
+      }
+    ]
+  },
+  {
+    "page": "library",
+    "url": "http://127.0.0.1:4174/library.html",
+    "fetchTime": "2026-11-19T10:22:39.363Z",
+    "lighthouseVersion": "13.6.0",
+    "formFactor": "mobile",
+    "throttlingMethod": "simulate",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 50
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 911.8224,
+        "display": "0.9 s"
+      },
+      "largest-contentful-paint": {
+        "value": 1898.8224,
+        "display": "1.9 s"
+      },
+      "total-blocking-time": {
+        "value": 74,
+        "display": "70 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.0008170657540088899,
+        "display": "0.001"
+      },
+      "speed-index": {
+        "value": 911.8224,
+        "display": "0.9 s"
+      }
+    },
+    "failedAudits": [
+      {
+        "id": "max-potential-fid",
+        "score": 0.86,
+        "title": "Max Potential First Input Delay"
+      },
+      {
+        "id": "llms-txt",
+        "score": 0,
+        "title": "llms.txt does not follow recommendations"
+      },
+      {
+        "id": "ard-schema",
+        "score": 0,
+        "title": "ARD manifest is invalid"
+      },
+      {
+        "id": "forced-reflow-insight",
+        "score": 0,
+        "title": "Forced reflow"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree"
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0,
+        "title": "Render-blocking requests"
+      }
+    ]
+  },
+  {
+    "page": "plant",
+    "url": "http://127.0.0.1:4174/plant-pothos.html",
+    "fetchTime": "2026-11-19T10:22:51.961Z",
+    "lighthouseVersion": "13.6.0",
+    "formFactor": "mobile",
+    "throttlingMethod": "simulate",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 50
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 754.2779,
+        "display": "0.8 s"
+      },
+      "largest-contentful-paint": {
+        "value": 1989.2779,
+        "display": "2.0 s"
+      },
+      "total-blocking-time": {
+        "value": 65.5,
+        "display": "70 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.001027522627536113,
+        "display": "0.001"
+      },
+      "speed-index": {
+        "value": 754.2779,
+        "display": "0.8 s"
+      }
+    },
+    "failedAudits": [
+      {
+        "id": "max-potential-fid",
+        "score": 0.89,
+        "title": "Max Potential First Input Delay"
+      },
+      {
+        "id": "llms-txt",
+        "score": 0,
+        "title": "llms.txt does not follow recommendations"
+      },
+      {
+        "id": "ard-schema",
+        "score": 0,
+        "title": "ARD manifest is invalid"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "score": 0,
+        "title": "Network dependency tree"
+      },
+      {
+        "id": "render-blocking-insight",
+        "score": 0.5,
+        "title": "Render-blocking requests"
+      }
+    ]
+  }
+]

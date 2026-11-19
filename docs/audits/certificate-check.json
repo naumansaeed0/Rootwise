@@ -1,0 +1,19 @@
+{
+  "url": "https://naumansaeed0.github.io/Rootwise/",
+  "certificateChecksDisabled": false,
+  "nodeExtraCA": "/usr/local/share/ca-certificates/environment-proxy-ca.crt",
+  "systemCA": "/etc/ssl/certs/ca-certificates.crt",
+  "nodeHTTPS": {
+    "error": "fetch failed"
+  },
+  "playwrightHTTPS": {
+    "error": "apiRequestContext.get: connect ENETUNREACH 2606:50c0:8000::153:443 - Local (:::0)"
+  },
+  "chromium": {
+    "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://naumansaeed0.github.io/Rootwise/"
+  },
+  "playwrightHTTPSWithConfiguredProxy": {
+    "status": 200,
+    "certificateChecksDisabled": false
+  }
+}

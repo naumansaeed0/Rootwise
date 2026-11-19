@@ -77,4 +77,4 @@ Cards use solid/semi-opaque surfaces, borders, SVG, and a lightweight hover over
 
 Automated audits cover the new components in both modes, all four plant palettes, responsive layouts, expanded/collapsed filters, and the table. They do not prove conformance. Raw reports retain incomplete/manual-review results.
 
-The existing protected hero contains one desktop `label-content-name-mismatch`: the visible ROOTS tag is not included in the accessible name “Start beneath the surface: open information panel.” Its source and behavior were left unchanged under the hard constraint. The test suite explicitly allows only this exact existing target/rule on the home page and continues to fail on new violations; it does not disable that rule globally.
+The final polish round corrected the previously inherited desktop ROOTS accessible-name mismatch by including each visible node tag in its accessible name. The final audit suite requires zero violations; the old per-target exception has been removed. See the historical Round 2 report for the earlier finding and the final-polish report for current results.
