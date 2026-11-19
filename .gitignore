@@ -7,3 +7,15 @@ dist/
 
 test-results/
 playwright-report/
+
+# Local editor/OS state, temporary files, and generated browser artifacts.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+coverage/
+blob-report/
+artifacts/

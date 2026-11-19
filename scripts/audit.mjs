@@ -3,14 +3,14 @@
 import { spawn } from "node:child_process";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 const origin = process.env.AUDIT_ORIGIN || "http://127.0.0.1:4174";
-await mkdir("docs/audits", { recursive: true });
+await mkdir("docs/lighthouse/current", { recursive: true });
 const results = [];
 for (const [name, route] of [
   ["home", "index.html"],
   ["library", "library.html"],
   ["plant", "plant-pothos.html"],
 ]) {
-  const output = `docs/audits/lighthouse-${name}`;
+  const output = `docs/lighthouse/current/lighthouse-${name}`;
   await new Promise((resolve, reject) => {
     const child = spawn(
       process.execPath,
@@ -77,6 +77,6 @@ for (const [name, route] of [
   console.log(JSON.stringify(results.at(-1), null, 2));
 }
 await writeFile(
-  "docs/audits/lighthouse-summary.json",
+  "docs/lighthouse/current/lighthouse-summary.json",
   JSON.stringify(results, null, 2) + "\n",
 );

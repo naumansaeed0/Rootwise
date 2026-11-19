@@ -44,8 +44,43 @@ for (const f of [
   ".nojekyll",
   "assets/licenses/Manrope.txt",
   "assets/licenses/DM-Mono.txt",
+  "assets/licenses/React.txt",
+  "assets/licenses/React-DOM.txt",
+  "assets/licenses/Scheduler.txt",
+  "assets/licenses/Vite.txt",
+  "LICENSE.txt",
+  "THIRD_PARTY_NOTICES.md",
 ])
   await stat(`dist/${f}`);
 console.log(
   `Verified ${files.length} pre-rendered pages, ${links} local links/assets, 55 unique plant titles, sitemap, robots, font licenses, and nested 404 base.`,
+);
+// Only public site files belong on the hosting branch.
+const allowedRoot = new Set([
+  ...files,
+  "assets",
+  "robots.txt",
+  "sitemap.xml",
+  ".nojekyll",
+  "LICENSE.txt",
+  "THIRD_PARTY_NOTICES.md",
+]);
+for (const entry of await readdir("dist"))
+  assert.ok(allowedRoot.has(entry), `Unexpected publish root: ${entry}`);
+for (const name of [
+  "React",
+  "React-DOM",
+  "Scheduler",
+  "Vite",
+  "Manrope-OFL",
+  "DM-Mono-OFL",
+])
+  assert.equal(
+    await readFile(`dist/assets/licenses/${name}.txt`, "utf8"),
+    await readFile(`docs/licenses/${name}.txt`, "utf8"),
+    `Incomplete notice: ${name}`,
+  );
+assert.equal(
+  await readFile("dist/LICENSE.txt", "utf8"),
+  await readFile("LICENSE", "utf8"),
 );

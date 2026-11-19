@@ -14,7 +14,9 @@
     "test:a11y": "playwright test tests/e2e/accessibility.spec.ts",
     "audit:mobile": "node scripts/audit.mjs",
     "test:browser": "playwright test",
-    "audit:contrast": "node scripts/check-contrast.mjs"
+    "audit:contrast": "node scripts/check-contrast.mjs",
+    "screenshots": "node scripts/screenshots.mjs",
+    "check:live": "node scripts/check-live.mjs"
   },
   "dependencies": {
     "@fontsource-variable/manrope": "^5.2.8",
@@ -32,5 +34,6 @@
     "tsx": "^4.20.6",
     "typescript": "^5.9.3",
     "vite": "^6.4.1"
-  }
+  },
+  "license": "MIT"
 }

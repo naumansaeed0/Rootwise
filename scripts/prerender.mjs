@@ -100,14 +100,40 @@ await writeFile(
 );
 await writeFile("dist/.nojekyll", "");
 await mkdir("dist/assets/licenses", { recursive: true });
-for (const [pkg, name] of [
-  ["@fontsource-variable/manrope", "Manrope"],
-  ["@fontsource/dm-mono", "DM-Mono"],
+for (const name of [
+  "React",
+  "React-DOM",
+  "Scheduler",
+  "Vite",
+  "Manrope-OFL",
+  "DM-Mono-OFL",
 ])
   await copyFile(
-    `node_modules/${pkg}/LICENSE`,
+    `docs/licenses/${name}.txt`,
     `dist/assets/licenses/${name}.txt`,
   );
+// Preserve the existing font notice URLs for links/bookmarks from earlier releases.
+await copyFile(
+  "docs/licenses/Manrope-OFL.txt",
+  "dist/assets/licenses/Manrope.txt",
+);
+await copyFile(
+  "docs/licenses/DM-Mono-OFL.txt",
+  "dist/assets/licenses/DM-Mono.txt",
+);
+await copyFile("LICENSE", "dist/LICENSE.txt");
+const notices = (await readFile("THIRD_PARTY_NOTICES.md", "utf8"))
+  .replaceAll("docs/licenses/", "assets/licenses/")
+  .replace("[LICENSE](LICENSE)", "[LICENSE](LICENSE.txt)")
+  .replace(
+    "[the data review](docs/data-review.md)",
+    "[the data review](https://github.com/naumansaeed0/Rootwise/blob/main/docs/data-review.md)",
+  )
+  .replace(
+    "[the content wording review](docs/content-review.md)",
+    "[the content wording review](https://github.com/naumansaeed0/Rootwise/blob/main/docs/content-review.md)",
+  );
+await writeFile("dist/THIRD_PARTY_NOTICES.md", notices);
 await rm(".ssr", { recursive: true, force: true });
 console.log(
   `Prerendered ${pages.length} static pages, including ${plants.length} plant profiles.`,
