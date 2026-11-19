@@ -47,4 +47,8 @@ Default system headless Chromium still returns `ERR_CERT_AUTHORITY_INVALID`; its
 
 ## Publication
 
-The verified site is published to gh-pages without force-pushing. The main source and published branch retain their earlier commits as ancestors. Live response and branch checks are recorded after publication below.
+The verified site is published to gh-pages without force-pushing. The main source and published branch retain their earlier commits as ancestors. Implementation source: `3ccaf97`. Published site commit: `77987e0`, a child of the previous `8d8410c` (verified ancestor). [GitHub Pages run 44505693512](https://github.com/naumansaeed0/Rootwise/actions/runs/44505693512) succeeded.
+
+`npm run check:live` verified **17 live pages/assets/license notices**, all HTTP 200 and byte-for-byte identical to the final production build, with certificate verification enabled. A Git tree comparison confirms gh-pages contains exactly the **81 generated site/notice files**, with no source, node_modules, secrets, or stray files. Only main and gh-pages exist as remote branches. Source pushes after the workflow change created no new automatic custom-job failure.
+
+The final source is tagged `v1.0.0` with an annotated release note. The only owner-side follow-ups are the denied repository About fields and the existing billing lock if Actions is desired. The MIT handle can be replaced by the owner's preferred full name later; the profile supplied none.

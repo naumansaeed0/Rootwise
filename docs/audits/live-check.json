@@ -1,0 +1,92 @@
+{
+  "base": "https://naumansaeed0.github.io/Rootwise/",
+  "certificateVerificationEnabled": true,
+  "checkedAt": "2026-11-19T10:27:04.705Z",
+  "results": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "library.html",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "plant-pothos.html",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "guides.html",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "benefits.html",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "about.html",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "404.html",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "assets/index-CABaT8aI.js",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "assets/index-CeyZhhm9.css",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "assets/licenses/React.txt",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "assets/licenses/React-DOM.txt",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "assets/licenses/Scheduler.txt",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "assets/licenses/Vite.txt",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "assets/licenses/Manrope-OFL.txt",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "path": "assets/licenses/DM-Mono-OFL.txt",
+      "status": 200,
+      "matchesBuild": true
+    }
+  ]
+}
