@@ -66,13 +66,15 @@ The three Unverified safety labels never pass the pet-friendly filter. Source ac
 - TypeScript checks and the production build pass.
 - The production check verifies 62 rendered HTML pages, 55 unique plant titles, all local links and assets, crawler files, font licenses, and the nested-404 project base.
 - All 55 primary source URLs were reachable after broken species URLs were replaced with explicitly labeled genus/hybrid references.
-- The managed preview relay failed to open the browser port. Browser interaction, desktop/mobile screenshots, automated accessibility scans, and Lighthouse scores are **unverified**. No 90+ score or physical-phone smoothness claim is made.
+- The managed preview relay failed to open the browser port, so checks continued against the published GitHub Pages site. Live Chrome checks passed for alternate-name search, combined pet/light filters, plant detail links and refresh, guide deep links, theme switching/persistence, mobile navigation, and native dialog Escape/focus restoration. Desktop and narrow-window layouts were inspected; a narrow-screen spacing issue was corrected. Automated accessibility scans, Lighthouse scores, and physical-phone smoothness remain unverified. No 90+ score is claimed.
 
 ## Deployment
 
 The source is prepared for `naumansaeed0/Rootwise`, with `main` containing source and `gh-pages` containing only the generated site. `.github/workflows/deploy.yml` builds and publishes on each push to main and supports manual dispatch. It requests `contents: write`, serializes publication, and runs tests/build/link checks before updating the generated branch. `npm run deploy` provides a verified manual publishing fallback.
 
-Publication status is recorded after the push below. The expected public address is https://naumansaeed0.github.io/Rootwise/; it is not considered live until the hosting response is verified.
+**Publication result:** Source was pushed to main and the verified static build was published directly to gh-pages. The public site at https://naumansaeed0.github.io/Rootwise/ returned HTTP 200 and rendered successfully in Chrome. The Actions workflow exists, but run 44476191201 was refused before any step started: GitHub reported “The job was not started because your account is locked due to a billing issue.” This is an account-level blocker, not a failed site build. Resolve the GitHub billing lock and rerun the workflow to restore automatic publication.
+
+The GitHub integration denied Pages administration with HTTP 403, so its settings could not be confirmed through the API. The site nevertheless served the published build successfully. Check the branch/source settings below if hosting stops or future updates do not appear.
 
 Repository settings, if not already enabled:
 
@@ -81,4 +83,4 @@ Repository settings, if not already enabled:
 
 ## Remaining improvements
 
-Browser-based visual/accessibility testing is the largest outstanding verification gap. Next priorities are a real mobile performance audit, species-specific botanical/safety review of flagged records, more plant-specific problem guidance and illustrations, and user-owned photographs if desired. The initial JavaScript bundle includes the whole static plant dataset; splitting library/detail data could reduce the first load on slow devices if measurement justifies it. No analytics or external application integrations are installed.
+Automated accessibility and performance audits remain outstanding. Next priorities are a real mobile performance audit, species-specific botanical/safety review of flagged records, more plant-specific problem guidance and illustrations, and user-owned photographs if desired. The initial JavaScript bundle includes the whole static plant dataset; splitting library/detail data could reduce the first load on slow devices if measurement justifies it. No analytics or external application integrations are installed.

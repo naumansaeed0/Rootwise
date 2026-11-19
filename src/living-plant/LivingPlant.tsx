@@ -127,15 +127,13 @@ export function LivingPlant() {
             <span className="little-line" /> NATURE, UNDERSTOOD.
           </div>
           <h1>
-            A little
-            <br />
+            A little <br />
             knowledge.
             <br />
             <em>A lot of growth.</em>
           </h1>
           <p>
-            You don’t need a green thumb.
-            <br />
+            You don’t need a green thumb. <br />
             Just a little understanding of what grows.
           </p>
           <div className="hero-actions">
