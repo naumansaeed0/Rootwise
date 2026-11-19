@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://naumansaeed0.github.io/Rootwise/sitemap.xml
