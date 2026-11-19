@@ -83,7 +83,11 @@ No WebGL, pointer parallax engine, complex card FLIP system, or blur per card wa
 
 The source is pushed to `main`, and only the verified `dist/` output is published directly to `gh-pages`. The requested URL remains **https://naumansaeed0.github.io/Rootwise/**, with the redesigned collection at **https://naumansaeed0.github.io/Rootwise/library.html**. The blocked custom Actions workflow is not relied upon for this publication.
 
-Publication and live-response confirmation are recorded after deployment. Repository Pages settings remain branch-based (`gh-pages`, `/ (root)`). The account billing lock still needs owner attention if automatic source builds are wanted.
+**Published successfully.** Implementation source commit: `72b89f2`. Published `gh-pages` build commit: `8d8410c`. GitHub’s [Pages build and deployment run 44499091150](https://github.com/naumansaeed0/Rootwise/actions/runs/44499091150) completed with **success**.
+
+Live HTTP checks returned **200** for home, library, Pothos, snake plant, guides, benefits, About, the 404 document, and the new CSS/JS. Each response matched its local verified build file **byte-for-byte**. The `main` custom build workflow remains blocked; publication used the requested direct branch path.
+
+The production UI browser suite ran locally. A separate headless live-site smoke attempt stopped at `ERR_CERT_AUTHORITY_INVALID` in that test browser before interacting with the page. No certificate check was disabled. HTTPS retrieval through the configured system client succeeded, including exact content matching. Review screenshots are from the verified local production build, not a claimed successful live headless session. Repository Pages settings remain branch-based (`gh-pages`, `/ (root)`). The account billing lock still needs owner attention if automatic source builds are wanted.
 
 ## 7. Limitations and explicit deviations
 
