@@ -1,0 +1,3344 @@
+[
+  {
+    "slug": "pothos",
+    "commonName": "Pothos",
+    "scientificName": "Epipremnum aureum",
+    "alternateNames": ["Devil’s ivy", "Golden pothos"],
+    "family": "Araceae",
+    "origin": "Society Islands, French Polynesia",
+    "category": "Climbers & trailers",
+    "theme": "canopy",
+    "shape": "heart",
+    "light": "Low",
+    "difficulty": "Easy",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Golden, heart-shaped leaves follow long vines that can trail from a shelf or climb a support.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Tolerates lower light but grows better in medium to bright indirect light. Low light never means no light. Avoid harsh direct sun.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings with at least one node."
+    },
+    "related": ["Golden pothos", "Marble Queen", "Neon"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/epipremnum-aureum/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "snake-plant",
+    "commonName": "Snake plant",
+    "scientificName": "Dracaena trifasciata",
+    "alternateNames": ["Sansevieria trifasciata", "Mother-in-law’s tongue"],
+    "family": "Asparagaceae",
+    "origin": "Tropical western Africa",
+    "category": "Succulents & cacti",
+    "theme": "desert",
+    "shape": "sword",
+    "light": "Low",
+    "difficulty": "Easy",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Upright, patterned leaves make a quiet architectural statement. Its water-storing foliage rewards restraint.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Tolerates lower light but grows better in medium to bright indirect light. Low light never means no light. Avoid harsh direct sun.",
+      "water": "Allow the mix to dry through before watering deeply. Drain fully; use much less water when light and growth are low.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A gritty cactus/succulent mix in a pot with drainage holes.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Divide rhizomes; leaf cuttings may lose variegation."
+    },
+    "related": ["Laurentii", "Moonshine", "Hahnii"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/dracaena-trifasciata/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "zz-plant",
+    "commonName": "ZZ plant",
+    "scientificName": "Zamioculcas zamiifolia",
+    "alternateNames": ["Zanzibar gem"],
+    "family": "Araceae",
+    "origin": "Eastern Africa",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "zz",
+    "light": "Low",
+    "difficulty": "Easy",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Glossy leaflets rise from thick stems, while underground rhizomes store water for leaner times.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Tolerates lower light but grows better in medium to bright indirect light. Low light never means no light. Avoid harsh direct sun.",
+      "water": "Allow the mix to dry through before watering deeply. Drain fully; use much less water when light and growth are low.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A gritty cactus/succulent mix in a pot with drainage holes.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Divide rhizomes or root leaf cuttings; rooting is slow."
+    },
+    "related": ["Raven", "Zenzi"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/zamioculcas-zamiifolia/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "monstera-deliciosa",
+    "commonName": "Monstera deliciosa",
+    "scientificName": "Monstera deliciosa",
+    "alternateNames": [],
+    "family": "Araceae",
+    "origin": "Mexico and Central America",
+    "category": "Climbers & trailers",
+    "theme": "canopy",
+    "shape": "split",
+    "light": "Bright indirect",
+    "difficulty": "Easy",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "A climbing tropical with dramatic leaves that develop splits and openings as the plant matures in good light.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Prefers moderate to high humidity with gentle airflow. Keep away from dry heating vents.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings with a node or air layering."
+    },
+    "related": ["Thai Constellation", "Albo Variegata"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/monstera-deliciosa/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "peace-lily",
+    "commonName": "Peace lily",
+    "scientificName": "Spathiphyllum wallisii",
+    "alternateNames": [],
+    "family": "Araceae",
+    "origin": "Central and South America",
+    "category": "Flowering plants",
+    "theme": "bloom",
+    "shape": "bloom",
+    "light": "Medium",
+    "difficulty": "Moderate",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Dark, arching leaves frame white spathes. This is an aroid, not a true lily, but it still irritates if chewed.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Division of established clumps."
+    },
+    "related": ["Sensation", "Domino", "Mauna Loa"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · genus overview (care background)",
+        "url": "https://plants.ces.ncsu.edu/plants/spathiphyllum/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": true,
+    "verificationNotes": [
+      "Care is supported by a genus-level reference; species-specific origin and cultivation details still need a direct botanical review."
+    ]
+  },
+  {
+    "slug": "spider-plant",
+    "commonName": "Spider plant",
+    "scientificName": "Chlorophytum comosum",
+    "alternateNames": [],
+    "family": "Asparagaceae",
+    "origin": "Tropical Africa to southern Africa",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "grass",
+    "light": "Medium",
+    "difficulty": "Easy",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "A fountain of narrow leaves produces dangling plantlets on long stems. A forgiving choice for a bright shelf.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Root plantlets or divide the clump."
+    },
+    "related": ["Vittatum", "Variegatum", "Bonnie"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/chlorophytum-comosum/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "rubber-plant",
+    "commonName": "Rubber plant",
+    "scientificName": "Ficus elastica",
+    "alternateNames": [],
+    "family": "Moraceae",
+    "origin": "South and Southeast Asia",
+    "category": "Indoor trees",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Bright indirect",
+    "difficulty": "Easy",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Thick, glossy leaves and an upright habit give this tropical tree a sculptural presence indoors.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Air layering or stem cuttings; avoid contact with milky sap."
+    },
+    "related": ["Burgundy", "Tineke", "Ruby"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-elastica/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "fiddle-leaf-fig",
+    "commonName": "Fiddle-leaf fig",
+    "scientificName": "Ficus lyrata",
+    "alternateNames": [],
+    "family": "Moraceae",
+    "origin": "Western tropical Africa",
+    "category": "Indoor trees",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Bright indirect",
+    "difficulty": "Demanding",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Broad, violin-shaped leaves make a striking canopy. Stable light, warmth, and watering matter more than fussing.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings or air layering."
+    },
+    "related": ["Bambino", "Compacta"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-lyrata/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "aloe-vera",
+    "commonName": "Aloe vera",
+    "scientificName": "Aloe vera",
+    "alternateNames": [],
+    "family": "Asphodelaceae",
+    "origin": "Arabian Peninsula; widely cultivated",
+    "category": "Succulents & cacti",
+    "theme": "desert",
+    "shape": "sword",
+    "light": "Direct sun",
+    "difficulty": "Easy",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Do not ingest whole leaves or yellow latex; they can cause adverse effects. This guide does not recommend medicinal use."
+    },
+    "description": "Fleshy, toothed leaves grow in a rosette. A sunny position and fast-draining mix keep growth compact.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Provide several hours of direct light at a bright window, acclimating gradually. Indoors, weak winter light may require a grow light.",
+      "water": "Allow the mix to dry through before watering deeply. Drain fully; use much less water when light and growth are low.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A gritty cactus/succulent mix in a pot with drainage holes.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Separate rooted offsets."
+    },
+    "related": ["Aloe aristata (now Aristaloe aristata)", "Aloe juvenna"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/aloe-vera/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "boston-fern",
+    "commonName": "Boston fern",
+    "scientificName": "Nephrolepis exaltata",
+    "alternateNames": [],
+    "family": "Nephrolepidaceae",
+    "origin": "Tropical and subtropical Americas",
+    "category": "Ferns",
+    "theme": "forest",
+    "shape": "fern",
+    "light": "Medium",
+    "difficulty": "Moderate",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Soft, arching fronds create a lush fountain. Consistent moisture and humid air prevent crispy edges.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Divide an established plant."
+    },
+    "related": ["Bostoniensis", "Dallas Jewel"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/nephrolepis-exaltata/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "heartleaf-philodendron",
+    "commonName": "Heartleaf philodendron",
+    "scientificName": "Philodendron hederaceum",
+    "alternateNames": [],
+    "family": "Araceae",
+    "origin": "Tropical Americas",
+    "category": "Climbers & trailers",
+    "theme": "canopy",
+    "shape": "heart",
+    "light": "Medium",
+    "difficulty": "Easy",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Supple, heart-shaped leaves follow climbing or trailing stems. A small cutting can become a generous cascade.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings containing a node."
+    },
+    "related": ["Brasil", "Micans", "Lemon Lime"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/philodendron-hederaceum/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "velvet-leaf-philodendron",
+    "commonName": "Velvet-leaf philodendron",
+    "scientificName": "Philodendron melanochrysum",
+    "alternateNames": [],
+    "family": "Araceae",
+    "origin": "Colombia",
+    "category": "Climbers & trailers",
+    "theme": "canopy",
+    "shape": "heart",
+    "light": "Bright indirect",
+    "difficulty": "Demanding",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Elongated, velvety leaves with pale veins grow larger when the climbing stems have support and humidity.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Node cuttings or air layering."
+    },
+    "related": ["Philodendron verrucosum", "Philodendron gloriosum"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · genus overview (care background)",
+        "url": "https://plants.ces.ncsu.edu/plants/philodendron/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": true,
+    "verificationNotes": [
+      "Care is supported by a genus-level reference; species-specific origin and cultivation details still need a direct botanical review."
+    ]
+  },
+  {
+    "slug": "swiss-cheese-vine",
+    "commonName": "Swiss cheese vine",
+    "scientificName": "Monstera adansonii",
+    "alternateNames": [],
+    "family": "Araceae",
+    "origin": "Tropical Americas",
+    "category": "Climbers & trailers",
+    "theme": "canopy",
+    "shape": "split",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Smaller, perforated leaves make this flexible climber suited to a moss pole or a trailing basket.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings including a node."
+    },
+    "related": ["Monstera obliqua", "Monstera siltepecana"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/monstera-adansonii/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "satin-pothos",
+    "commonName": "Satin pothos",
+    "scientificName": "Scindapsus pictus",
+    "alternateNames": [],
+    "family": "Araceae",
+    "origin": "Southeast Asia",
+    "category": "Climbers & trailers",
+    "theme": "canopy",
+    "shape": "heart",
+    "light": "Bright indirect",
+    "difficulty": "Easy",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Matte leaves are dusted with silvery patches. Despite its common name, it belongs to a different genus from pothos.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings with a node."
+    },
+    "related": ["Argyraeus", "Exotica", "Silvery Ann"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/scindapsus-pictus/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "arrowhead-vine",
+    "commonName": "Arrowhead vine",
+    "scientificName": "Syngonium podophyllum",
+    "alternateNames": [],
+    "family": "Araceae",
+    "origin": "Mexico to tropical South America",
+    "category": "Climbers & trailers",
+    "theme": "canopy",
+    "shape": "heart",
+    "light": "Medium",
+    "difficulty": "Easy",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Arrow-shaped young leaves change as this climbing aroid matures. Prune for a bushier shape or offer support.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Node-bearing stem cuttings."
+    },
+    "related": ["White Butterfly", "Neon Robusta", "Pink Allusion"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/syngonium-podophyllum/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "chinese-evergreen",
+    "commonName": "Chinese evergreen",
+    "scientificName": "Aglaonema commutatum",
+    "alternateNames": [],
+    "family": "Araceae",
+    "origin": "Philippines and northeastern Sulawesi",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Medium",
+    "difficulty": "Easy",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Patterned leaves brighten sheltered corners. Green forms cope with less light than many brightly colored cultivars.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Division or stem cuttings."
+    },
+    "related": ["Silver Queen", "Maria; Aglaonema modestum"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · genus overview (care background)",
+        "url": "https://plants.ces.ncsu.edu/plants/aglaonema/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      },
+      {
+        "label": "Kew · species identity and range",
+        "url": "https://powo.science.kew.org/taxon/84050-1"
+      }
+    ],
+    "needsVerification": true,
+    "verificationNotes": [
+      "Care is supported by a genus-level reference; species-specific origin and cultivation details still need a direct botanical review."
+    ]
+  },
+  {
+    "slug": "dumb-cane",
+    "commonName": "Dumb cane",
+    "scientificName": "Dieffenbachia seguine",
+    "alternateNames": [],
+    "family": "Araceae",
+    "origin": "Tropical Americas",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Medium",
+    "difficulty": "Moderate",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Broad leaves carry pale central markings on cane-like stems. Sap and chewed leaves can cause pronounced irritation.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Cane cuttings or air layering; wear gloves."
+    },
+    "related": ["Tropic Snow", "Camille", "Compacta"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/dieffenbachia-seguine/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "elephant-ear",
+    "commonName": "Elephant ear",
+    "scientificName": "Alocasia × amazonica (trade name)",
+    "alternateNames": [
+      "Alocasia × mortfontanensis",
+      "African mask plant",
+      "Alocasia Polly"
+    ],
+    "family": "Araceae",
+    "origin": "Cultivated hybrid",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "heart",
+    "light": "Bright indirect",
+    "difficulty": "Demanding",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Dark, arrow-shaped leaves carry contrasting veins. This cultivated hybrid needs warmth and may rest in winter.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Separate rooted offsets or corms."
+    },
+    "related": ["Polly; Alocasia micholitziana", "Alocasia zebrina"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · hybrid profile",
+        "url": "https://plants.ces.ncsu.edu/plants/alocasia-x-mortfontanensis/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": true,
+    "verificationNotes": [
+      "Hybrid nomenclature and parentage need a current taxonomic review; nursery labels may differ."
+    ]
+  },
+  {
+    "slug": "anthurium",
+    "commonName": "Anthurium",
+    "scientificName": "Anthurium andraeanum",
+    "alternateNames": [],
+    "family": "Araceae",
+    "origin": "Colombia and Ecuador",
+    "category": "Flowering plants",
+    "theme": "bloom",
+    "shape": "bloom",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Glossy, heart-shaped foliage sits below colorful spathes. Bright filtered light helps support repeat flowering.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Prefers humid air, roughly 60–80% relative humidity, with gentle airflow. Use a clean humidifier if the room is very dry.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Division of mature plants."
+    },
+    "related": ["Anthurium scherzerianum", "Anthurium clarinervium"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/anthurium-andraeanum/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "prayer-plant",
+    "commonName": "Prayer plant",
+    "scientificName": "Maranta leuconeura",
+    "alternateNames": [],
+    "family": "Marantaceae",
+    "origin": "Brazil",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Medium",
+    "difficulty": "Moderate",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Unverified",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Patterned leaves lift and fold with a daily rhythm. Gentle light, warmth, and even moisture suit this forest-floor plant.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Division or node-bearing stem cuttings."
+    },
+    "related": ["Erythroneura", "Kerchoveana", "Lemon Lime"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/maranta-leuconeura/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": true,
+    "verificationNotes": [
+      "Species-specific cat and dog safety has not been confirmed against a direct authoritative entry. Similar common names or related species are not sufficient confirmation."
+    ]
+  },
+  {
+    "slug": "rattlesnake-plant",
+    "commonName": "Rattlesnake plant",
+    "scientificName": "Goeppertia insignis",
+    "alternateNames": ["Calathea lancifolia", "Goeppertia lancifolia"],
+    "family": "Marantaceae",
+    "origin": "Brazil",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Medium",
+    "difficulty": "Demanding",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Long, spotted leaves have purple undersides. Previously called Calathea lancifolia, this plant appreciates humid, stable conditions.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Divide carefully when actively growing."
+    },
+    "related": ["Goeppertia makoyana", "Goeppertia orbifolia"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/calathea-lancifolia/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "round-leaf-calathea",
+    "commonName": "Round-leaf calathea",
+    "scientificName": "Goeppertia orbifolia",
+    "alternateNames": ["Calathea orbifolia"],
+    "family": "Marantaceae",
+    "origin": "Bolivia",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Medium",
+    "difficulty": "Demanding",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Large, rounded leaves alternate green and silver bands. Low-mineral water and humid air help limit damaged leaf margins.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Division, keeping roots attached to each section."
+    },
+    "related": ["Goeppertia roseopicta", "Goeppertia makoyana"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/calathea-orbifolia/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "peacock-plant",
+    "commonName": "Peacock plant",
+    "scientificName": "Goeppertia makoyana",
+    "alternateNames": ["Calathea makoyana"],
+    "family": "Marantaceae",
+    "origin": "Brazil",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Medium",
+    "difficulty": "Demanding",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Translucent, patterned leaves resemble layered feathers. Shield them from harsh sun and drying drafts.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Division in active growth."
+    },
+    "related": ["Goeppertia ornata", "Goeppertia roseopicta"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/calathea-makoyana/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "cast-iron-plant",
+    "commonName": "Cast iron plant",
+    "scientificName": "Aspidistra elatior",
+    "alternateNames": [],
+    "family": "Asparagaceae",
+    "origin": "Japan and Taiwan",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "grass",
+    "light": "Low",
+    "difficulty": "Easy",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Long, dark leaves emerge directly from rhizomes. Slow growth and tolerance of shade suit quieter indoor corners.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Tolerates lower light but grows better in medium to bright indirect light. Low light never means no light. Avoid harsh direct sun.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Divide rhizomes with roots and leaves attached."
+    },
+    "related": ["Milky Way", "Variegata"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/aspidistra-elatior/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "baby-rubber-plant",
+    "commonName": "Baby rubber plant",
+    "scientificName": "Peperomia obtusifolia",
+    "alternateNames": [],
+    "family": "Piperaceae",
+    "origin": "Tropical and subtropical Americas",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Bright indirect",
+    "difficulty": "Easy",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Compact, rounded leaves store moisture. This small peperomia is unrelated to the much larger rubber tree.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Let the upper third of the mix dry before watering. Water through, then drain completely; avoid keeping roots continuously wet.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem or leaf cuttings."
+    },
+    "related": ["Variegata; Peperomia clusiifolia", "Peperomia caperata"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/peperomia-obtusifolia/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "watermelon-peperomia",
+    "commonName": "Watermelon peperomia",
+    "scientificName": "Peperomia argyreia",
+    "alternateNames": [],
+    "family": "Piperaceae",
+    "origin": "Northern South America",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "round",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Rounded leaves carry silver stripes like a watermelon rind. Its delicate roots dislike soggy, dense potting mix.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Let the upper third of the mix dry before watering. Water through, then drain completely; avoid keeping roots continuously wet.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Leaf cuttings with a short section of stalk."
+    },
+    "related": ["Peperomia caperata", "Peperomia albovittata"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/peperomia-argyreia/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "chinese-money-plant",
+    "commonName": "Chinese money plant",
+    "scientificName": "Pilea peperomioides",
+    "alternateNames": ["Pancake plant", "UFO plant"],
+    "family": "Urticaceae",
+    "origin": "Southwestern China",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "round",
+    "light": "Bright indirect",
+    "difficulty": "Easy",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Unverified",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Round leaves balance on slender stalks. Small offsets form around the base and are easy to share once rooted.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Separate rooted offsets."
+    },
+    "related": ["Pilea involucrata", "Pilea cadierei"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/pilea-peperomioides/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": true,
+    "verificationNotes": [
+      "Species-specific cat and dog toxicity has not been confirmed against a direct authoritative entry. Do not treat as pet-safe."
+    ]
+  },
+  {
+    "slug": "polka-dot-plant",
+    "commonName": "Polka dot plant",
+    "scientificName": "Hypoestes phyllostachya",
+    "alternateNames": [],
+    "family": "Acanthaceae",
+    "origin": "Madagascar",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Pink, white, or red speckles cover small leaves. Pinching growing tips keeps the plant compact.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings or seed."
+    },
+    "related": ["Splash series", "Confetti series"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/hypoestes-phyllostachya/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "nerve-plant",
+    "commonName": "Nerve plant",
+    "scientificName": "Fittonia albivenis",
+    "alternateNames": [],
+    "family": "Acanthaceae",
+    "origin": "Tropical South America",
+    "category": "Foliage plants",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Medium",
+    "difficulty": "Moderate",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Fine colored veins trace small leaves. Warmth and humidity suit its low, spreading habit and terrarium scale.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings or division."
+    },
+    "related": ["Argyroneura Group", "Verschaffeltii Group"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/fittonia-albivenis/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "parlor-palm",
+    "commonName": "Parlor palm",
+    "scientificName": "Chamaedorea elegans",
+    "alternateNames": [],
+    "family": "Arecaceae",
+    "origin": "Mexico and Guatemala",
+    "category": "Palms",
+    "theme": "canopy",
+    "shape": "palm",
+    "light": "Medium",
+    "difficulty": "Easy",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Fine, feathery fronds bring a soft canopy to smaller spaces. This slow-growing palm prefers filtered light.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Seed; purchased pots often contain separate seedlings."
+    },
+    "related": ["Chamaedorea seifrizii", "Chamaedorea metallica"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/chamaedorea-elegans/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "areca-palm",
+    "commonName": "Areca palm",
+    "scientificName": "Dypsis lutescens",
+    "alternateNames": ["Chrysalidocarpus lutescens"],
+    "family": "Arecaceae",
+    "origin": "Madagascar",
+    "category": "Palms",
+    "theme": "canopy",
+    "shape": "palm",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Arching fronds rise from clustered golden stems. Give it room, bright light, and a pot that drains freely.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Seed or careful division of established clumps."
+    },
+    "related": ["Also known as Chrysalidocarpus lutescens; Dypsis decaryi"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/dypsis-lutescens/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "kentia-palm",
+    "commonName": "Kentia palm",
+    "scientificName": "Howea forsteriana",
+    "alternateNames": [],
+    "family": "Arecaceae",
+    "origin": "Lord Howe Island, Australia",
+    "category": "Palms",
+    "theme": "canopy",
+    "shape": "palm",
+    "light": "Medium",
+    "difficulty": "Moderate",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Elegant, arching fronds and slow growth make this palm a long-term indoor companion with space to spread.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Seed; germination can be slow."
+    },
+    "related": ["Howea belmoreana"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/howea-forsteriana/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "ponytail-palm",
+    "commonName": "Ponytail palm",
+    "scientificName": "Beaucarnea recurvata",
+    "alternateNames": [],
+    "family": "Asparagaceae",
+    "origin": "Mexico",
+    "category": "Succulents & cacti",
+    "theme": "desert",
+    "shape": "grass",
+    "light": "Direct sun",
+    "difficulty": "Easy",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "A swollen trunk stores water below a fountain of narrow leaves. Despite its name, it is not a true palm.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Provide several hours of direct light at a bright window, acclimating gradually. Indoors, weak winter light may require a grow light.",
+      "water": "Allow the mix to dry through before watering deeply. Drain fully; use much less water when light and growth are low.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A gritty cactus/succulent mix in a pot with drainage holes.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Seed or offsets when available."
+    },
+    "related": ["Beaucarnea gracilis"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/beaucarnea-recurvata/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "weeping-fig",
+    "commonName": "Weeping fig",
+    "scientificName": "Ficus benjamina",
+    "alternateNames": [],
+    "family": "Moraceae",
+    "origin": "South and Southeast Asia to northern Australia",
+    "category": "Indoor trees",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Fine branches and pointed leaves make a delicate indoor canopy. Abrupt moves and drafts can trigger leaf drop.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings or air layering."
+    },
+    "related": ["Starlight", "Danielle", "Kinky"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-benjamina/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "dragon-tree",
+    "commonName": "Dragon tree",
+    "scientificName": "Dracaena marginata",
+    "alternateNames": ["Dracaena reflexa var. angustifolia"],
+    "family": "Asparagaceae",
+    "origin": "Madagascar",
+    "category": "Indoor trees",
+    "theme": "canopy",
+    "shape": "grass",
+    "light": "Medium",
+    "difficulty": "Easy",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Slender stems carry tufts of narrow, red-edged leaves. Allow part of the potting mix to dry between waterings.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Let the upper third of the mix dry before watering. Water through, then drain completely; avoid keeping roots continuously wet.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Cane or tip cuttings."
+    },
+    "related": ["Tricolor", "Colorama; Dracaena reflexa"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/dracaena-marginata/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "corn-plant",
+    "commonName": "Corn plant",
+    "scientificName": "Dracaena fragrans",
+    "alternateNames": [],
+    "family": "Asparagaceae",
+    "origin": "Tropical Africa",
+    "category": "Indoor trees",
+    "theme": "canopy",
+    "shape": "grass",
+    "light": "Medium",
+    "difficulty": "Easy",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Broad, strap-like leaves grow from sturdy canes. Keep away from cold drafts and avoid persistently wet soil.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Let the upper third of the mix dry before watering. Water through, then drain completely; avoid keeping roots continuously wet.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Cane or tip cuttings."
+    },
+    "related": ["Massangeana", "Lemon Lime", "Janet Craig"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/dracaena-fragrans/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "money-tree",
+    "commonName": "Money tree",
+    "scientificName": "Pachira aquatica",
+    "alternateNames": [],
+    "family": "Malvaceae",
+    "origin": "Central and tropical South America",
+    "category": "Indoor trees",
+    "theme": "canopy",
+    "shape": "palm",
+    "light": "Bright indirect",
+    "difficulty": "Easy",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Palmate leaves open like green hands. Often sold with braided trunks, it grows best in bright, filtered light.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings or seed."
+    },
+    "related": ["Pachira glabra is also sold as money tree"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/pachira-aquatica/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      },
+      {
+        "label": "ASPCA · Money tree safety",
+        "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/money-tree"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "umbrella-tree",
+    "commonName": "Umbrella tree",
+    "scientificName": "Heptapleurum arboricola",
+    "alternateNames": ["Schefflera arboricola"],
+    "family": "Araliaceae",
+    "origin": "Taiwan and Hainan",
+    "category": "Indoor trees",
+    "theme": "canopy",
+    "shape": "palm",
+    "light": "Bright indirect",
+    "difficulty": "Easy",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Glossy leaflets radiate from each stalk. Formerly Schefflera arboricola, it responds well to pruning in active growth.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings or air layering."
+    },
+    "related": ["Gold Capella", "Trinette"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/schefflera-arboricola/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "bird-of-paradise",
+    "commonName": "Bird of paradise",
+    "scientificName": "Strelitzia nicolai",
+    "alternateNames": [],
+    "family": "Strelitziaceae",
+    "origin": "Southern Africa",
+    "category": "Indoor trees",
+    "theme": "canopy",
+    "shape": "oval",
+    "light": "Direct sun",
+    "difficulty": "Moderate",
+    "size": "Large",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Potentially toxic if ingested; handling may irritate skin. Wear gloves and keep away from small children."
+    },
+    "description": "Tall stems carry large, banana-like leaves. Natural splits can occur; indoor flowering is uncommon.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Provide several hours of direct light at a bright window, acclimating gradually. Indoors, weak winter light may require a grow light.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Divide mature plants or grow from seed."
+    },
+    "related": ["Strelitzia reginae"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/strelitzia-nicolai/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "jade-plant",
+    "commonName": "Jade plant",
+    "scientificName": "Crassula ovata",
+    "alternateNames": [],
+    "family": "Crassulaceae",
+    "origin": "Southern Africa",
+    "category": "Succulents & cacti",
+    "theme": "desert",
+    "shape": "oval",
+    "light": "Direct sun",
+    "difficulty": "Easy",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Fleshy oval leaves and branching stems develop a miniature tree form. Plenty of light keeps stems sturdy.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Provide several hours of direct light at a bright window, acclimating gradually. Indoors, weak winter light may require a grow light.",
+      "water": "Allow the mix to dry through before watering deeply. Drain fully; use much less water when light and growth are low.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A gritty cactus/succulent mix in a pot with drainage holes.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Allow stem or leaf cuttings to callus before rooting."
+    },
+    "related": ["Gollum", "Hummel's Sunset", "Hobbit"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/crassula-ovata/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "zebra-haworthia",
+    "commonName": "Zebra haworthia",
+    "scientificName": "Haworthiopsis attenuata",
+    "alternateNames": ["Haworthia attenuata"],
+    "family": "Asphodelaceae",
+    "origin": "South Africa",
+    "category": "Succulents & cacti",
+    "theme": "desert",
+    "shape": "sword",
+    "light": "Bright indirect",
+    "difficulty": "Easy",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Small rosettes of pointed leaves are banded with white bumps. Protect from abrupt exposure to hot midday sun.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Allow the mix to dry through before watering deeply. Drain fully; use much less water when light and growth are low.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A gritty cactus/succulent mix in a pot with drainage holes.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Separate rooted offsets."
+    },
+    "related": ["Haworthiopsis fasciata", "Haworthia cooperi"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/haworthia-attenuata/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "echeveria",
+    "commonName": "Echeveria",
+    "scientificName": "Echeveria elegans",
+    "alternateNames": [],
+    "family": "Crassulaceae",
+    "origin": "Mexico",
+    "category": "Succulents & cacti",
+    "theme": "desert",
+    "shape": "rosette",
+    "light": "Direct sun",
+    "difficulty": "Moderate",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Pale, powdery rosettes need strong light to stay compact. Keep water from sitting in the crown.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Provide several hours of direct light at a bright window, acclimating gradually. Indoors, weak winter light may require a grow light.",
+      "water": "Allow the mix to dry through before watering deeply. Drain fully; use much less water when light and growth are low.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A gritty cactus/succulent mix in a pot with drainage holes.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Offsets or intact leaf cuttings."
+    },
+    "related": ["Echeveria lilacina", "Echeveria agavoides"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/echeveria-elegans/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "string-of-pearls",
+    "commonName": "String of pearls",
+    "scientificName": "Curio rowleyanus",
+    "alternateNames": ["Senecio rowleyanus"],
+    "family": "Asteraceae",
+    "origin": "Southern Africa",
+    "category": "Succulents & cacti",
+    "theme": "desert",
+    "shape": "round",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Bead-like leaves follow fine trailing stems. Bright light at the crown and a very open mix help prevent rot.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Allow the mix to dry through before watering deeply. Drain fully; use much less water when light and growth are low.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A gritty cactus/succulent mix in a pot with drainage holes.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings with several nodes resting on mix."
+    },
+    "related": ["Curio radicans", "Curio herreanus"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/senecio-rowleyanus/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "burro-s-tail",
+    "commonName": "Burro's tail",
+    "scientificName": "Sedum morganianum",
+    "alternateNames": [],
+    "family": "Crassulaceae",
+    "origin": "Southern Mexico",
+    "category": "Succulents & cacti",
+    "theme": "desert",
+    "shape": "zz",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Trailing stems are densely packed with fleshy leaves that detach easily. Place it where it will not be brushed.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Allow the mix to dry through before watering deeply. Drain fully; use much less water when light and growth are low.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A gritty cactus/succulent mix in a pot with drainage holes.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings or fallen healthy leaves after callusing."
+    },
+    "related": ["Burrito; Sedum adolphii"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/sedum-morganianum/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "christmas-cactus",
+    "commonName": "Christmas cactus",
+    "scientificName": "Schlumbergera × buckleyi",
+    "alternateNames": ["Schlumbergera × bridgesii", "Schlumbergera bridgesii"],
+    "family": "Cactaceae",
+    "origin": "Cultivated hybrid of Brazilian species",
+    "category": "Flowering plants",
+    "theme": "bloom",
+    "shape": "grass",
+    "light": "Bright indirect",
+    "difficulty": "Easy",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Flattened, segmented stems carry winter flowers. Unlike desert cacti, it prefers filtered light and some moisture.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Root short stem segments after cut ends dry."
+    },
+    "related": ["Schlumbergera truncata; Easter cactus (Rhipsalidopsis)"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/schlumbergera-bridgesii/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": true,
+    "verificationNotes": [
+      "Nursery labels often confuse Christmas cactus with Thanksgiving cactus (Schlumbergera truncata); confirm the plant identity before applying flowering cues."
+    ]
+  },
+  {
+    "slug": "wax-plant",
+    "commonName": "Wax plant",
+    "scientificName": "Hoya carnosa",
+    "alternateNames": [],
+    "family": "Apocynaceae",
+    "origin": "Eastern Asia",
+    "category": "Climbers & trailers",
+    "theme": "canopy",
+    "shape": "heart",
+    "light": "Bright indirect",
+    "difficulty": "Easy",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Waxy leaves grow on long vines that may bear fragrant flower clusters. Leave old flower spurs in place.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Let the upper third of the mix dry before watering. Water through, then drain completely; avoid keeping roots continuously wet.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings with nodes."
+    },
+    "related": ["Krimson Queen", "Krimson Princess", "Compacta"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/hoya-carnosa/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "purple-heart",
+    "commonName": "Purple heart",
+    "scientificName": "Tradescantia pallida",
+    "alternateNames": [],
+    "family": "Commelinaceae",
+    "origin": "Mexico",
+    "category": "Climbers & trailers",
+    "theme": "canopy",
+    "shape": "grass",
+    "light": "Direct sun",
+    "difficulty": "Easy",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Sap may cause skin irritation. Use gloves when pruning; do not ingest."
+    },
+    "description": "Long purple leaves follow spreading stems. Strong light maintains the color; sap may irritate sensitive skin.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Provide several hours of direct light at a bright window, acclimating gradually. Indoors, weak winter light may require a grow light.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings; wear gloves if sensitive to sap."
+    },
+    "related": ["Purpurea; Tradescantia zebrina", "Tradescantia fluminensis"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/tradescantia-pallida/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "english-ivy",
+    "commonName": "English ivy",
+    "scientificName": "Hedera helix",
+    "alternateNames": [],
+    "family": "Araliaceae",
+    "origin": "Europe, western Asia and northern Africa",
+    "category": "Climbers & trailers",
+    "theme": "canopy",
+    "shape": "heart",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Lobed leaves follow climbing stems. Cool rooms and bright filtered light help limit stress and spider mites.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water thoroughly when the top 2–3 cm of mix feels dry. Let excess drain and empty the saucer. Check the root zone rather than following a fixed schedule.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Node-bearing stem cuttings; keep contained."
+    },
+    "related": ["Glacier", "Goldchild", "Needlepoint"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/hedera-helix/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "bird-s-nest-fern",
+    "commonName": "Bird's nest fern",
+    "scientificName": "Asplenium nidus",
+    "alternateNames": [],
+    "family": "Aspleniaceae",
+    "origin": "Tropical Asia, Africa and Pacific regions",
+    "category": "Ferns",
+    "theme": "forest",
+    "shape": "grass",
+    "light": "Medium",
+    "difficulty": "Moderate",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Broad, undivided fronds unfurl from a central rosette. Water the mix, keeping standing water out of the crown.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Spores; not suitable for routine home division."
+    },
+    "related": ["Asplenium antiquum", "Asplenium australasicum"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/asplenium-nidus/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      },
+      {
+        "label": "Clemson Extension · bird’s nest fern and pet safety",
+        "url": "https://hgic.clemson.edu/how-to-grow-and-care-for-birds-nest-fern-asplenium-nidus/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "maidenhair-fern",
+    "commonName": "Maidenhair fern",
+    "scientificName": "Adiantum raddianum",
+    "alternateNames": [],
+    "family": "Pteridaceae",
+    "origin": "Tropical Americas",
+    "category": "Ferns",
+    "theme": "forest",
+    "shape": "fern",
+    "light": "Medium",
+    "difficulty": "Demanding",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Unverified",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Small, fan-shaped leaflets dance on dark wiry stalks. This fern quickly shows distress if its roots dry out.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Choose moderate to bright filtered daylight. Shield from intense afternoon sun and watch new growth for signs of too little light.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Careful division or spores."
+    },
+    "related": ["Fragrans", "Fritz Luthi; Adiantum capillus-veneris"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/adiantum-raddianum/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": true,
+    "verificationNotes": [
+      "Species-specific cat and dog safety has not been confirmed against a direct authoritative entry. Similar common names or related species are not sufficient confirmation."
+    ]
+  },
+  {
+    "slug": "staghorn-fern",
+    "commonName": "Staghorn fern",
+    "scientificName": "Platycerium bifurcatum",
+    "alternateNames": [],
+    "family": "Polypodiaceae",
+    "origin": "Eastern Australia and New Guinea",
+    "category": "Ferns",
+    "theme": "forest",
+    "shape": "grass",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Medium",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Antler-like fronds rise above shield fronds that protect the roots. Brown shield fronds are normal and should remain.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Moisten the root ball or mounting medium when it is approaching dryness. Let it drain well; do not keep the roots waterlogged.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "An airy epiphyte mix or mount with moisture-retentive sphagnum; keep airflow around roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Separate established pups with roots attached."
+    },
+    "related": ["Platycerium superbum", "Platycerium veitchii"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/platycerium-bifurcatum/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "moth-orchid",
+    "commonName": "Moth orchid",
+    "scientificName": "Phalaenopsis amabilis",
+    "alternateNames": [],
+    "family": "Orchidaceae",
+    "origin": "Southeast Asia to northeastern Australia",
+    "category": "Flowering plants",
+    "theme": "bloom",
+    "shape": "bloom",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Arching flower spikes rise above fleshy leaves and aerial roots. Many shop plants are hybrids with similar basic needs.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Water when the bark is nearly dry and exposed roots turn silvery. Soak briefly, drain completely, and keep water out of the crown.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "An open orchid bark mix in a well-draining orchid pot; do not use dense garden soil.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Separate keikis only once they have several roots."
+    },
+    "related": ["Phalaenopsis equestris; commercial Phalaenopsis hybrids"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · genus overview (care background)",
+        "url": "https://plants.ces.ncsu.edu/plants/phalaenopsis/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      },
+      {
+        "label": "Smithsonian Gardens · Phalaenopsis care",
+        "url": "https://gardens.si.edu/collections/plants/orchids/orchid-care-sheets/phalaenopsis/"
+      },
+      {
+        "label": "ASPCA · Phalaenopsis orchid safety",
+        "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/phalaenopsis-orchid"
+      }
+    ],
+    "needsVerification": true,
+    "verificationNotes": [
+      "Care is supported by a genus-level reference; species-specific origin and cultivation details still need a direct botanical review."
+    ]
+  },
+  {
+    "slug": "african-violet",
+    "commonName": "African violet",
+    "scientificName": "Streptocarpus ionanthus",
+    "alternateNames": ["Saintpaulia ionantha"],
+    "family": "Gesneriaceae",
+    "origin": "Eastern Tanzania",
+    "category": "Flowering plants",
+    "theme": "bloom",
+    "shape": "bloom",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "Velvety leaves form a low rosette below clusters of flowers. Previously Saintpaulia ionantha, it prefers stable warmth.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Keep the mix lightly and evenly moist, never saturated. Water when the surface starts to dry and empty any standing water.",
+      "humidity": "Aim for 50–70% relative humidity with gentle airflow. A humidifier is more effective than occasional misting.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Leaf cuttings with a stalk in an airy propagation mix."
+    },
+    "related": ["Optimara series; other Streptocarpus hybrids"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Crispy edges",
+        "fix": "Check moisture at root level and keep humidity steady. Review water quality and salt buildup; damaged edges will not turn green again."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/saintpaulia-ionantha/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "flaming-katy",
+    "commonName": "Flaming Katy",
+    "scientificName": "Kalanchoe blossfeldiana",
+    "alternateNames": [],
+    "family": "Crassulaceae",
+    "origin": "Madagascar",
+    "category": "Flowering plants",
+    "theme": "bloom",
+    "shape": "bloom",
+    "light": "Direct sun",
+    "difficulty": "Easy",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Toxic",
+      "humans": "Contains irritating compounds; keep leaves, stems, and sap away from mouths and eyes. Not edible."
+    },
+    "description": "Glossy succulent leaves support bright flower clusters. Shorter days can encourage new buds when conditions are right.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Provide several hours of direct light at a bright window, acclimating gradually. Indoors, weak winter light may require a grow light.",
+      "water": "Let the upper third of the mix dry before watering. Water through, then drain completely; avoid keeping roots continuously wet.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A well-draining indoor potting mix, with added perlite or fine bark for air around the roots.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Stem cuttings after cut ends callus."
+    },
+    "related": ["Calandiva series; Kalanchoe tomentosa"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/kalanchoe-blossfeldiana/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  },
+  {
+    "slug": "bromeliad",
+    "commonName": "Bromeliad",
+    "scientificName": "Guzmania lingulata",
+    "alternateNames": [],
+    "family": "Bromeliaceae",
+    "origin": "Tropical Americas",
+    "category": "Flowering plants",
+    "theme": "bloom",
+    "shape": "bloom",
+    "light": "Bright indirect",
+    "difficulty": "Moderate",
+    "size": "Small",
+    "toxicity": {
+      "pets": "Non-toxic",
+      "humans": "Not a food plant. Keep out of reach of small children; ingestion can cause discomfort and small parts can be a choking risk."
+    },
+    "description": "A central cup of leaves surrounds a colorful bract. Each rosette flowers once, then gradually yields to offsets.",
+    "benefits": [
+      "Adds living texture and a connection to seasonal growth.",
+      "Offers a small, repeatable plant-care ritual; individual experiences vary."
+    ],
+    "care": {
+      "light": "Place near a bright window with filtered light. Avoid intense midday sun; acclimate slowly when changing position.",
+      "water": "Keep a little fresh water in the central cup in warm, bright conditions, flushing it regularly. Keep the open root mix lightly moist and never stagnant.",
+      "humidity": "Ordinary indoor humidity is usually sufficient. Keep away from heating vents and cold, drying drafts.",
+      "temperature": "Most comfortable at 18–27°C. Avoid frost, sudden temperature changes, and cold window glass.",
+      "soil": "A light bromeliad or orchid-style mix with excellent drainage.",
+      "fertilizing": "Feed lightly with a balanced houseplant fertilizer at the label dilution during active growth. Pause feeding when growth slows; never fertilize dry or damaged roots.",
+      "repotting": "Check roots during active growth. Repot only when crowded or the mix has broken down, using a pot just one size larger with drainage.",
+      "propagation": "Separate pups when roughly one-third to half the parent's size."
+    },
+    "related": ["Guzmania hybrids", "Vriesea splendens"],
+    "commonProblems": [
+      {
+        "symptom": "Yellowing leaves and wet mix",
+        "fix": "Check drainage and root health. Allow the mix to dry to this plant’s preferred level; remove soft, rotting roots before repotting if needed."
+      },
+      {
+        "symptom": "Pests on leaves or stems",
+        "fix": "Isolate the plant and inspect undersides. Remove visible pests; use a labeled treatment suited to the pest and repeat according to its instructions."
+      },
+      {
+        "symptom": "Leggy or weak growth",
+        "fix": "Move gradually toward a brighter suitable position. Rotate for even growth; do not compensate for low light with extra fertilizer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NC State Extension · species profile",
+        "url": "https://plants.ces.ncsu.edu/plants/guzmania-lingulata/"
+      },
+      {
+        "label": "University of Florida · houseplant care",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/houseplant-care/"
+      }
+    ],
+    "needsVerification": false,
+    "verificationNotes": []
+  }
+]

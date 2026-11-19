@@ -1,0 +1,281 @@
+{
+  "reviewDate": "2026-11-19",
+  "method": "HTTP source accessibility plus editorial review; not an assertion that every care statement is species-verified. Full third-party excerpts are not redistributed.",
+  "results": [
+    {
+      "plant": "Pothos",
+      "url": "https://plants.ces.ncsu.edu/plants/epipremnum-aureum/",
+      "status": "read"
+    },
+    {
+      "plant": "Snake plant",
+      "url": "https://plants.ces.ncsu.edu/plants/dracaena-trifasciata/",
+      "status": "read"
+    },
+    {
+      "plant": "ZZ plant",
+      "url": "https://plants.ces.ncsu.edu/plants/zamioculcas-zamiifolia/",
+      "status": "read"
+    },
+    {
+      "plant": "Monstera deliciosa",
+      "url": "https://plants.ces.ncsu.edu/plants/monstera-deliciosa/",
+      "status": "read"
+    },
+    {
+      "plant": "Peace lily",
+      "url": "https://plants.ces.ncsu.edu/plants/spathiphyllum/",
+      "status": "read"
+    },
+    {
+      "plant": "Spider plant",
+      "url": "https://plants.ces.ncsu.edu/plants/chlorophytum-comosum/",
+      "status": "read"
+    },
+    {
+      "plant": "Rubber plant",
+      "url": "https://plants.ces.ncsu.edu/plants/ficus-elastica/",
+      "status": "read"
+    },
+    {
+      "plant": "Fiddle-leaf fig",
+      "url": "https://plants.ces.ncsu.edu/plants/ficus-lyrata/",
+      "status": "read"
+    },
+    {
+      "plant": "Aloe vera",
+      "url": "https://plants.ces.ncsu.edu/plants/aloe-vera/",
+      "status": "read"
+    },
+    {
+      "plant": "Boston fern",
+      "url": "https://plants.ces.ncsu.edu/plants/nephrolepis-exaltata/",
+      "status": "read"
+    },
+    {
+      "plant": "Heartleaf philodendron",
+      "url": "https://plants.ces.ncsu.edu/plants/philodendron-hederaceum/",
+      "status": "read"
+    },
+    {
+      "plant": "Velvet-leaf philodendron",
+      "url": "https://plants.ces.ncsu.edu/plants/philodendron/",
+      "status": "read"
+    },
+    {
+      "plant": "Swiss cheese vine",
+      "url": "https://plants.ces.ncsu.edu/plants/monstera-adansonii/",
+      "status": "read"
+    },
+    {
+      "plant": "Satin pothos",
+      "url": "https://plants.ces.ncsu.edu/plants/scindapsus-pictus/",
+      "status": "read"
+    },
+    {
+      "plant": "Arrowhead vine",
+      "url": "https://plants.ces.ncsu.edu/plants/syngonium-podophyllum/",
+      "status": "read"
+    },
+    {
+      "plant": "Chinese evergreen",
+      "url": "https://plants.ces.ncsu.edu/plants/aglaonema/",
+      "status": "read"
+    },
+    {
+      "plant": "Dumb cane",
+      "url": "https://plants.ces.ncsu.edu/plants/dieffenbachia-seguine/",
+      "status": "read"
+    },
+    {
+      "plant": "Elephant ear",
+      "url": "https://plants.ces.ncsu.edu/plants/alocasia-x-mortfontanensis/",
+      "status": "read"
+    },
+    {
+      "plant": "Anthurium",
+      "url": "https://plants.ces.ncsu.edu/plants/anthurium-andraeanum/",
+      "status": "read"
+    },
+    {
+      "plant": "Prayer plant",
+      "url": "https://plants.ces.ncsu.edu/plants/maranta-leuconeura/",
+      "status": "read"
+    },
+    {
+      "plant": "Rattlesnake plant",
+      "url": "https://plants.ces.ncsu.edu/plants/calathea-lancifolia/",
+      "status": "read"
+    },
+    {
+      "plant": "Round-leaf calathea",
+      "url": "https://plants.ces.ncsu.edu/plants/calathea-orbifolia/",
+      "status": "read"
+    },
+    {
+      "plant": "Peacock plant",
+      "url": "https://plants.ces.ncsu.edu/plants/calathea-makoyana/",
+      "status": "read"
+    },
+    {
+      "plant": "Cast iron plant",
+      "url": "https://plants.ces.ncsu.edu/plants/aspidistra-elatior/",
+      "status": "read"
+    },
+    {
+      "plant": "Baby rubber plant",
+      "url": "https://plants.ces.ncsu.edu/plants/peperomia-obtusifolia/",
+      "status": "read"
+    },
+    {
+      "plant": "Watermelon peperomia",
+      "url": "https://plants.ces.ncsu.edu/plants/peperomia-argyreia/",
+      "status": "read"
+    },
+    {
+      "plant": "Chinese money plant",
+      "url": "https://plants.ces.ncsu.edu/plants/pilea-peperomioides/",
+      "status": "read"
+    },
+    {
+      "plant": "Polka dot plant",
+      "url": "https://plants.ces.ncsu.edu/plants/hypoestes-phyllostachya/",
+      "status": "read"
+    },
+    {
+      "plant": "Nerve plant",
+      "url": "https://plants.ces.ncsu.edu/plants/fittonia-albivenis/",
+      "status": "read"
+    },
+    {
+      "plant": "Parlor palm",
+      "url": "https://plants.ces.ncsu.edu/plants/chamaedorea-elegans/",
+      "status": "read"
+    },
+    {
+      "plant": "Areca palm",
+      "url": "https://plants.ces.ncsu.edu/plants/dypsis-lutescens/",
+      "status": "read"
+    },
+    {
+      "plant": "Kentia palm",
+      "url": "https://plants.ces.ncsu.edu/plants/howea-forsteriana/",
+      "status": "read"
+    },
+    {
+      "plant": "Ponytail palm",
+      "url": "https://plants.ces.ncsu.edu/plants/beaucarnea-recurvata/",
+      "status": "read"
+    },
+    {
+      "plant": "Weeping fig",
+      "url": "https://plants.ces.ncsu.edu/plants/ficus-benjamina/",
+      "status": "read"
+    },
+    {
+      "plant": "Dragon tree",
+      "url": "https://plants.ces.ncsu.edu/plants/dracaena-marginata/",
+      "status": "read"
+    },
+    {
+      "plant": "Corn plant",
+      "url": "https://plants.ces.ncsu.edu/plants/dracaena-fragrans/",
+      "status": "read"
+    },
+    {
+      "plant": "Money tree",
+      "url": "https://plants.ces.ncsu.edu/plants/pachira-aquatica/",
+      "status": "read"
+    },
+    {
+      "plant": "Umbrella tree",
+      "url": "https://plants.ces.ncsu.edu/plants/schefflera-arboricola/",
+      "status": "read"
+    },
+    {
+      "plant": "Bird of paradise",
+      "url": "https://plants.ces.ncsu.edu/plants/strelitzia-nicolai/",
+      "status": "read"
+    },
+    {
+      "plant": "Jade plant",
+      "url": "https://plants.ces.ncsu.edu/plants/crassula-ovata/",
+      "status": "read"
+    },
+    {
+      "plant": "Zebra haworthia",
+      "url": "https://plants.ces.ncsu.edu/plants/haworthia-attenuata/",
+      "status": "read"
+    },
+    {
+      "plant": "Echeveria",
+      "url": "https://plants.ces.ncsu.edu/plants/echeveria-elegans/",
+      "status": "read"
+    },
+    {
+      "plant": "String of pearls",
+      "url": "https://plants.ces.ncsu.edu/plants/senecio-rowleyanus/",
+      "status": "read"
+    },
+    {
+      "plant": "Burro's tail",
+      "url": "https://plants.ces.ncsu.edu/plants/sedum-morganianum/",
+      "status": "read"
+    },
+    {
+      "plant": "Christmas cactus",
+      "url": "https://plants.ces.ncsu.edu/plants/schlumbergera-bridgesii/",
+      "status": "read"
+    },
+    {
+      "plant": "Wax plant",
+      "url": "https://plants.ces.ncsu.edu/plants/hoya-carnosa/",
+      "status": "read"
+    },
+    {
+      "plant": "Purple heart",
+      "url": "https://plants.ces.ncsu.edu/plants/tradescantia-pallida/",
+      "status": "read"
+    },
+    {
+      "plant": "English ivy",
+      "url": "https://plants.ces.ncsu.edu/plants/hedera-helix/",
+      "status": "read"
+    },
+    {
+      "plant": "Bird's nest fern",
+      "url": "https://plants.ces.ncsu.edu/plants/asplenium-nidus/",
+      "status": "read"
+    },
+    {
+      "plant": "Maidenhair fern",
+      "url": "https://plants.ces.ncsu.edu/plants/adiantum-raddianum/",
+      "status": "read"
+    },
+    {
+      "plant": "Staghorn fern",
+      "url": "https://plants.ces.ncsu.edu/plants/platycerium-bifurcatum/",
+      "status": "read"
+    },
+    {
+      "plant": "Moth orchid",
+      "url": "https://plants.ces.ncsu.edu/plants/phalaenopsis/",
+      "status": "read"
+    },
+    {
+      "plant": "African violet",
+      "url": "https://plants.ces.ncsu.edu/plants/saintpaulia-ionantha/",
+      "status": "read"
+    },
+    {
+      "plant": "Flaming Katy",
+      "url": "https://plants.ces.ncsu.edu/plants/kalanchoe-blossfeldiana/",
+      "status": "read"
+    },
+    {
+      "plant": "Bromeliad",
+      "url": "https://plants.ces.ncsu.edu/plants/guzmania-lingulata/",
+      "status": "read"
+    }
+  ]
+}
