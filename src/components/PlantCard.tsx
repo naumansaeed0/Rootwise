@@ -1,5 +1,6 @@
 import { PlantArt } from "./PlantArt";
 import { Icon } from "./Icon";
+import { PlantReadouts, specimenCode } from "./ui/PlantReadouts";
 import type { Plant } from "../data/plants";
 export function PlantCard({
   plant,
@@ -10,44 +11,35 @@ export function PlantCard({
 }) {
   return (
     <a
-      className="plant-card"
+      className="specimen-card ui-panel"
       data-palette={plant.theme}
       href={`plant-${plant.slug}.html`}
     >
-      <div className="plant-card-art">
-        <span className="card-category">{plant.category}</span>
+      <div className="specimen-card-header">
+        <span className="specimen-id">{specimenCode(plant)}</span>
+        <span className="specimen-category">{plant.category}</span>
+      </div>
+      <div className="specimen-art ui-scan-texture">
+        <div className="specimen-orbit" aria-hidden="true" />
         <PlantArt shape={plant.shape} seed={index} />
-        <span className="card-open">
-          <Icon name="plus" size={18} />
+        <span className="specimen-art-label">BOTANICAL STUDY</span>
+        <span className="specimen-marker" aria-hidden="true">
+          <Icon name="plus" size={17} />
         </span>
       </div>
-      <div className="plant-card-copy">
-        <div className="plant-card-title">
+      <div className="specimen-body">
+        <div className="specimen-title">
           <h3>{plant.commonName}</h3>
-          <span
-            className={`difficulty ${plant.difficulty === "Easy" ? "easy" : ""}`}
-          >
-            {plant.difficulty}
-          </span>
+          <span className="specimen-size">{plant.size}</span>
         </div>
-        <p className="scientific">{plant.scientificName}</p>
-        <div className="card-traits">
-          <span>
-            <Icon name="sun" size={14} />
-            {plant.light}
-          </span>
-          <span>
-            <Icon
-              name={plant.toxicity.pets === "Non-toxic" ? "shield" : "leaf"}
-              size={14}
-            />
-            {plant.toxicity.pets === "Non-toxic"
-              ? "Pet-friendly"
-              : plant.toxicity.pets === "Toxic"
-                ? "Keep from pets"
-                : "Safety unverified"}
-          </span>
-        </div>
+        <p className="specimen-scientific">{plant.scientificName}</p>
+        <PlantReadouts plant={plant} />
+      </div>
+      <div className="specimen-card-footer">
+        <span>{plant.family}</span>
+        <span>
+          Open record <Icon name="plus" size={12} />
+        </span>
       </div>
     </a>
   );

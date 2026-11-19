@@ -1,10 +1,19 @@
 import { useEffect, useState } from "react";
-import { plants, categories, filterPlants, sourceLinks } from "./data/plants";
+import { plants, sourceLinks } from "./data/plants";
 import { guides } from "./data/guides";
 import { Icon } from "./components/Icon";
 import { PlantArt } from "./components/PlantArt";
 import { PlantCard } from "./components/PlantCard";
 import { LivingPlant } from "./living-plant/LivingPlant";
+import { Library } from "./pages/Library";
+import {
+  Panel,
+  PageIntro,
+  ReadoutLabel,
+  SectionHeading,
+  SafetyStatus,
+} from "./components/ui/Instrument";
+import { PlantReadouts, specimenCode } from "./components/ui/PlantReadouts";
 let route = new URL(
   typeof location === "undefined"
     ? "https://naumansaeed0.github.io/Rootwise/"
@@ -65,28 +74,35 @@ function Header() {
       <header className="site-header">
         <a className="brand" href="index.html" aria-label="Rootwise home">
           <Icon name="sprout" size={27} />
-          <span>
-            rootwise<span className="brand-dot">®</span>
-          </span>
+          <span>rootwise</span>
         </a>
-        <nav aria-label="Main navigation" className={menu ? "nav-open" : ""}>
+        <nav
+          id="primary-navigation"
+          aria-label="Main navigation"
+          className={menu ? "nav-open" : ""}
+        >
           {[
             ["home", "Discover", "index.html"],
             ["library", "Plant library", "library.html"],
             ["guides", "Care guides", "guides.html"],
             ["benefits", "Why plants?", "benefits.html"],
-          ].map(([key, label, href]) => (
+          ].map(([key, label, href], i) => (
             <a
               key={key}
               href={href}
               aria-current={current === key ? "page" : undefined}
             >
+              <span className="nav-index" aria-hidden="true">
+                {String(i).padStart(2, "0")}
+              </span>
               {label}
             </a>
           ))}
         </nav>
         <div className="header-end">
-          <span className="header-tag">GROW WITH UNDERSTANDING</span>
+          <span className="header-tag">
+            <ReadoutLabel>FIELD GUIDE / INDOOR BOTANY</ReadoutLabel>
+          </span>
           <button
             className="icon-button theme-toggle"
             onClick={toggle}
@@ -98,6 +114,7 @@ function Header() {
             className="icon-button mobile-menu"
             aria-expanded={menu}
             aria-label="Toggle navigation"
+            aria-controls="primary-navigation"
             onClick={() => setMenu(!menu)}
           >
             <Icon name={menu ? "close" : "menu"} />
@@ -127,6 +144,7 @@ function Footer() {
         <a href="about.html">About & sources</a>
       </div>
       <div className="footer-bottom">
+        <ReadoutLabel index="RW">END OF FIELD NOTES</ReadoutLabel>
         <span>AN INDEPENDENT FIELD GUIDE TO INDOOR PLANTS.</span>
         <span>Built with care. Rooted in curiosity.</span>
       </div>
@@ -139,26 +157,24 @@ function SectionTitle({
   text,
   href,
   label,
+  index = "01",
 }: {
   kicker: string;
   title: string;
   text?: string;
   href?: string;
   label?: string;
+  index?: string;
 }) {
   return (
-    <div className="section-title">
-      <div>
-        <span className="eyebrow">{kicker}</span>
-        <h2>{title}</h2>
-        {text && <p>{text}</p>}
-      </div>
-      {href && (
-        <a className="text-link" href={href}>
-          {label}
-        </a>
-      )}
-    </div>
+    <SectionHeading
+      index={index}
+      label={kicker}
+      title={title}
+      text={text}
+      href={href}
+      linkLabel={label}
+    />
   );
 }
 function Home() {
@@ -200,6 +216,7 @@ function Home() {
       </section>
       <section className="care-preview content-section">
         <SectionTitle
+          index="02"
           kicker="GOOD HABITS. HEALTHY LEAVES."
           title="Small things. Growing confidence."
           href="guides.html"
@@ -214,7 +231,7 @@ function Home() {
             >
               <div className="guide-top">
                 <Icon name={g.icon} size={32} />
-                <span className="eyebrow">{g.time}</span>
+                <ReadoutLabel>{g.time}</ReadoutLabel>
               </div>
               <h3>{g.title}</h3>
               <p>{g.subtitle}</p>
@@ -251,158 +268,6 @@ function Home() {
   );
 }
 
-function Library() {
-  const [query, setQuery] = useState(params.get("q") || ""),
-    [filters, setFilters] = useState<Record<string, string>>({
-      light: params.get("light") || "",
-      difficulty: params.get("difficulty") || "",
-      pets: params.get("pets") || "",
-      size: params.get("size") || "",
-      category: params.get("category") || "",
-    });
-  const filtered = filterPlants(query, filters);
-  const count = Object.values(filters).filter(Boolean).length;
-  useEffect(() => {
-    const p = new URLSearchParams();
-    if (query) p.set("q", query);
-    Object.entries(filters).forEach(([k, v]) => {
-      if (v) p.set(k, v);
-    });
-    history.replaceState(
-      null,
-      "",
-      location.pathname + (p.size ? "?" + p.toString() : ""),
-    );
-  }, [query, filters]);
-  function change(key: string, value: string) {
-    setFilters((f) => ({ ...f, [key]: value }));
-  }
-  return (
-    <div className="page-shell">
-      <div className="page-heading">
-        <span className="eyebrow">THE PLANT LIBRARY</span>
-        <h1>
-          Find your kind of <em>green.</em>
-        </h1>
-        <p>
-          55 plants. A world of possibility. Get to know what grows with you.
-        </p>
-      </div>
-      <div className="library-toolbar">
-        <label className="search-field">
-          <Icon name="search" />
-          <input
-            aria-label="Search plants"
-            placeholder="Search by common or scientific name…"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-          />
-          {query && (
-            <button
-              className="icon-button"
-              onClick={() => setQuery("")}
-              aria-label="Clear search"
-            >
-              <Icon name="close" size={16} />
-            </button>
-          )}
-        </label>
-        <div className="filter-selects">
-          {[
-            [
-              "light",
-              "Light",
-              ["Low", "Medium", "Bright indirect", "Direct sun"],
-            ],
-            ["difficulty", "Care level", ["Easy", "Moderate", "Demanding"]],
-            ["pets", "Pet safety", ["Non-toxic", "Toxic", "Unverified"]],
-            ["size", "Size", ["Small", "Medium", "Large"]],
-          ].map(([key, label, options]) => (
-            <label key={key as string}>
-              <span className="sr-only">{label}</span>
-              <select
-                aria-label={label as string}
-                value={filters[key as string]}
-                onChange={(e) => change(key as string, e.target.value)}
-              >
-                <option value="">{label}</option>
-                {(options as string[]).map((o) => (
-                  <option key={o} value={o}>
-                    {key === "pets" && o === "Non-toxic" ? "Pet-friendly" : o}
-                  </option>
-                ))}
-              </select>
-            </label>
-          ))}
-        </div>
-      </div>
-      <div className="category-tabs" role="group" aria-label="Plant category">
-        {["All plants", ...categories].map((c) => (
-          <button
-            key={c}
-            aria-pressed={filters.category === (c === "All plants" ? "" : c)}
-            className={
-              filters.category === (c === "All plants" ? "" : c) ? "active" : ""
-            }
-            onClick={() => change("category", c === "All plants" ? "" : c)}
-          >
-            {c}
-          </button>
-        ))}
-      </div>
-      <div className="results-bar">
-        <span role="status" aria-live="polite">
-          {filtered.length} {filtered.length === 1 ? "plant" : "plants"} to
-          explore
-        </span>
-        <div>
-          {(count > 0 || query) && (
-            <button
-              className="reset-button"
-              onClick={() => {
-                setQuery("");
-                setFilters({
-                  light: "",
-                  difficulty: "",
-                  pets: "",
-                  size: "",
-                  category: "",
-                });
-              }}
-            >
-              Clear filters <Icon name="close" size={14} />
-            </button>
-          )}
-          <span className="library-caption">GROW AT YOUR OWN PACE</span>
-        </div>
-      </div>
-      {filtered.length ? (
-        <div className="library-grid">
-          {filtered.map((p, i) => (
-            <PlantCard plant={p} key={p.slug} index={i} />
-          ))}
-        </div>
-      ) : (
-        <div className="empty-state">
-          <Icon name="search" size={40} />
-          <h2>No leaves left unturned.</h2>
-          <p>
-            We couldn’t find a match. Try a different name or loosen a filter.
-          </p>
-        </div>
-      )}
-      <aside className="library-footnote">
-        <Icon name="shield" />
-        <p>
-          Pet-friendly means listed as non-toxic to cats and dogs, not edible.
-          Any plant can cause stomach upset if eaten. “Safety unverified” plants
-          are excluded from the pet-friendly filter.{" "}
-          <a href="about.html#safety">Read our safety notes.</a>
-        </p>
-      </aside>
-    </div>
-  );
-}
 const careIcons: Record<string, string> = {
   light: "sun",
   water: "drop",
@@ -424,35 +289,25 @@ function PlantDetail() {
         <span>{plant.commonName}</span>
       </div>
       <section className="detail-hero">
-        <div className="detail-art">
+        <Panel className="detail-art">
           <div className="detail-orbit" />
           <PlantArt
             shape={plant.shape}
             label={`Stylized illustration of ${plant.commonName}; not an identification reference`}
           />
           <span className="eyebrow">
-            BOTANICAL STUDY / {plant.family.toUpperCase()}
+            {specimenCode(plant)} / {plant.family.toUpperCase()}
           </span>
-        </div>
+        </Panel>
         <div className="detail-intro">
+          <ReadoutLabel index={specimenCode(plant)}>
+            SPECIMEN RECORD
+          </ReadoutLabel>
           <span className="eyebrow">{plant.category}</span>
           <h1>{plant.commonName}</h1>
           <p className="detail-scientific">{plant.scientificName}</p>
           <p className="lead">{plant.description}</p>
-          <div className="detail-tags">
-            <span>
-              <Icon name="sun" />
-              {plant.light} light
-            </span>
-            <span>
-              <Icon name="leaf" />
-              {plant.difficulty} care
-            </span>
-            <span>
-              <Icon name="sprout" />
-              {plant.size} size
-            </span>
-          </div>
+          <PlantReadouts plant={plant} />
           <dl className="botanical-info">
             <div>
               <dt>FAMILY</dt>
@@ -497,9 +352,12 @@ function PlantDetail() {
               ))}
             </div>
           </section>
-          <section className="detail-section">
-            <span className="eyebrow">WHEN SOMETHING FEELS OFF</span>
-            <h2>Common problems, considered.</h2>
+          <Panel as="section" className="detail-section">
+            <SectionHeading
+              index="02"
+              label="WHEN SOMETHING FEELS OFF"
+              title="Common problems, considered."
+            />
             {plant.commonProblems.map((p) => (
               <details className="problem" key={p.symptom}>
                 <summary>
@@ -509,10 +367,13 @@ function PlantDetail() {
                 <p>{p.fix}</p>
               </details>
             ))}
-          </section>
-          <section className="detail-section">
-            <span className="eyebrow">MORE THAN A PRETTY LEAF</span>
-            <h2>What it brings to your space.</h2>
+          </Panel>
+          <Panel as="section" className="detail-section">
+            <SectionHeading
+              index="03"
+              label="MORE THAN A PRETTY LEAF"
+              title="What it brings to your space."
+            />
             {plant.benefits.map((b) => (
               <p key={b}>{b}</p>
             ))}
@@ -520,10 +381,13 @@ function PlantDetail() {
               These are general lifestyle benefits, not species-specific health
               outcomes. <a href="benefits.html">Read the evidence.</a>
             </p>
-          </section>
-          <section className="detail-section">
-            <span className="eyebrow">BOTANICAL CONNECTIONS</span>
-            <h2>Also worth knowing.</h2>
+          </Panel>
+          <Panel as="section" className="detail-section">
+            <SectionHeading
+              index="04"
+              label="BOTANICAL CONNECTIONS"
+              title="Also worth knowing."
+            />
             <p>
               Related species and cultivated forms. These names are starting
               points for further research, not separate care profiles.
@@ -533,9 +397,13 @@ function PlantDetail() {
                 <span key={r}>{r}</span>
               ))}
             </div>
-          </section>
-          <section className="detail-section profile-sources">
-            <h3>Sources & editorial notes</h3>
+          </Panel>
+          <Panel as="section" className="detail-section profile-sources">
+            <SectionHeading
+              index="05"
+              label="REFERENCES"
+              title="Sources & editorial notes"
+            />
             <ul>
               {plant.sources.map((s) => (
                 <li key={s.url}>
@@ -558,12 +426,15 @@ function PlantDetail() {
                 ))}
               </div>
             )}
-          </section>
+          </Panel>
         </div>
         <aside className="detail-sidebar">
-          <div className="safety-card">
+          <Panel className="safety-card">
             <Icon name="shield" size={26} />
-            <span className="eyebrow">SHARE YOUR SPACE SAFELY</span>
+            <ReadoutLabel index="S">SAFETY RECORD</ReadoutLabel>
+            <div className="record-safety-status">
+              <SafetyStatus value={plant.toxicity.pets} />
+            </div>
             <h3>
               {plant.toxicity.pets === "Non-toxic"
                 ? "A pet-friendlier choice."
@@ -588,7 +459,7 @@ function PlantDetail() {
               If ingestion is suspected, contact a veterinarian or local poison
               service promptly. Do not use this guide for diagnosis.
             </p>
-          </div>
+          </Panel>
           <a className="sidebar-guide" href="guides.html">
             <Icon name="book" size={27} />
             <h3>Grow your understanding.</h3>
@@ -599,6 +470,7 @@ function PlantDetail() {
       </div>
       <section className="content-section related-plants">
         <SectionTitle
+          index="06"
           kicker="KEEP EXPLORING"
           title="A few other green companions."
         />
@@ -629,18 +501,19 @@ function Guides() {
   const guide = guides.find((g) => g.slug === selected);
   return (
     <div className="page-shell">
-      <div className="page-heading">
-        <span className="eyebrow">THE EVERYDAY ESSENTIALS</span>
-        <h1>
-          Good habits.
-          <br />
-          <em>Happier plants.</em>
-        </h1>
-        <p>
-          Care is less about getting everything right. More about noticing what
-          matters.
-        </p>
-      </div>
+      <PageIntro
+        index="02"
+        label="ROOTWISE / CARE PROTOCOLS"
+        title={
+          <>
+            Good habits.
+            <br />
+            <em>Happier plants.</em>
+          </>
+        }
+        description="Care is less about getting everything right. More about noticing what matters."
+        icon="book"
+      />
       {guide ? (
         <>
           <a className="text-link back-link" href="guides.html">
@@ -661,10 +534,14 @@ function Guides() {
                 </a>
               ))}
             </aside>
-            <article className="guide-article" key={guide.slug}>
+            <Panel as="article" className="guide-article" key={guide.slug}>
               <div className="article-mark">
                 <Icon name={guide.icon} size={32} />
-                <span className="eyebrow">{guide.time}</span>
+                <ReadoutLabel
+                  index={String(guides.indexOf(guide) + 1).padStart(2, "0")}
+                >
+                  {guide.time}
+                </ReadoutLabel>
               </div>
               <h2>{guide.title}</h2>
               <p className="lead">{guide.intro}</p>
@@ -693,20 +570,26 @@ function Guides() {
                   ? "Explore low-light plants"
                   : "Find your plant’s care profile"}
               </a>
-            </article>
+            </Panel>
           </div>
         </>
       ) : (
         <div className="guides-grid">
           {guides.map((g, i) => (
-            <a className="guide-large" key={g.slug} href={`#${g.slug}`}>
+            <a
+              className="guide-large ui-panel ui-panel--bracket"
+              key={g.slug}
+              href={`#${g.slug}`}
+            >
               <div className={`guide-visual guide-visual-${i}`}>
                 <Icon name={g.icon} size={80} />
                 <div className="guide-visual-orbit" />
-                <span className="eyebrow">ROOTWISE / CARE NOTES</span>
+                <ReadoutLabel index={String(i + 1).padStart(2, "0")}>
+                  CARE PROTOCOL
+                </ReadoutLabel>
               </div>
               <div className="guide-large-copy">
-                <span className="eyebrow">{g.time}</span>
+                <ReadoutLabel>{g.time}</ReadoutLabel>
                 <h2>{g.title}</h2>
                 <p>{g.subtitle}</p>
                 <span className="text-link">Read the guide</span>
@@ -721,19 +604,20 @@ function Guides() {
 function Benefits() {
   return (
     <div className="page-shell benefits-page">
-      <div className="page-heading">
-        <span className="eyebrow">THE SCIENCE OF A GREENER SPACE</span>
-        <h1>
-          More life in your room.
-          <br />
-          <em>Less myth in your feed.</em>
-        </h1>
-        <p>
-          There are good reasons to live with plants. Let’s keep the claims as
-          grounded as the roots.
-        </p>
-      </div>
-      <div className="benefits-hero">
+      <PageIntro
+        index="03"
+        label="ROOTWISE / EVIDENCE FILE"
+        title={
+          <>
+            More life in your room.
+            <br />
+            <em>Less myth in your feed.</em>
+          </>
+        }
+        description="There are good reasons to live with plants. Let’s keep the claims as grounded as the roots."
+        icon="leaf"
+      />
+      <Panel as="div" className="benefits-hero">
         <div>
           <span className="eyebrow">START WITH WHAT WE KNOW</span>
           <h2>
@@ -752,10 +636,10 @@ function Benefits() {
           shape="split"
           label="Decorative illustration of a leafy indoor plant"
         />
-      </div>
+      </Panel>
       <div className="evidence-grid">
-        <article>
-          <span className="evidence-label">PROMISING, WITH LIMITS</span>
+        <Panel as="article" className="evidence-panel">
+          <ReadoutLabel index="01">PROMISING, WITH LIMITS</ReadoutLabel>
           <h2>A little nature, indoors.</h2>
           <p>
             Some studies report benefits for mood, comfort, or stress-related
@@ -771,9 +655,9 @@ function Benefits() {
           <a href="https://pubmed.ncbi.nlm.nih.gov/36334835/">
             Review · indoor plants and mental health
           </a>
-        </article>
-        <article>
-          <span className="evidence-label">A PERSONAL EXPERIENCE</span>
+        </Panel>
+        <Panel as="article" className="evidence-panel">
+          <ReadoutLabel index="02">A PERSONAL EXPERIENCE</ReadoutLabel>
           <h2>A habit worth keeping.</h2>
           <p>
             Noticing new growth, checking soil, and tending a living thing can
@@ -786,11 +670,11 @@ function Benefits() {
             struggle to maintain.
           </p>
           <a href="guides.html">Start with the care essentials</a>
-        </article>
+        </Panel>
       </div>
-      <section className="myth-panel">
+      <Panel as="section" className="myth-panel">
         <div>
-          <span className="eyebrow">LET’S CLEAR THE AIR</span>
+          <ReadoutLabel index="03">LET’S CLEAR THE AIR</ReadoutLabel>
           <h2>
             Your pothos is a plant.
             <br />
@@ -815,7 +699,7 @@ function Benefits() {
           </p>
           <a href={sourceLinks.air}>Read the Cummings & Waring review</a>
         </div>
-      </section>
+      </Panel>
       <section className="benefit-cautions">
         <h2>Keep the whole picture in mind.</h2>
         <p>
@@ -834,21 +718,26 @@ function About() {
   const flagged = plants.filter((p) => p.needsVerification);
   return (
     <div className="page-shell about-page">
-      <div className="page-heading">
-        <span className="eyebrow">ABOUT ROOTWISE</span>
-        <h1>
-          Curious by nature.
-          <br />
-          <em>Careful by choice.</em>
-        </h1>
-        <p>
-          An independent, static field guide for people who want to understand
-          their indoor plants.
-        </p>
-      </div>
+      <PageIntro
+        index="04"
+        label="ROOTWISE / FIELD NOTES"
+        title={
+          <>
+            Curious by nature.
+            <br />
+            <em>Careful by choice.</em>
+          </>
+        }
+        description="An independent, static field guide for people who want to understand their indoor plants."
+        icon="sprout"
+      />
       <div className="prose">
-        <section>
-          <h2>Good information should feel approachable.</h2>
+        <Panel as="section" className="prose-section">
+          <SectionHeading
+            index="01"
+            label="FIELD NOTE"
+            title="Good information should feel approachable."
+          />
           <p>
             Rootwise brings together 55 popular indoor plants and six evergreen
             care guides. This is a reference library, not a blog or a shop.
@@ -860,9 +749,13 @@ function About() {
             instrument. Every illustration is custom SVG. They are stylized
             studies, not photographs or tools for identifying an unknown plant.
           </p>
-        </section>
-        <section>
-          <h2>Where the knowledge comes from.</h2>
+        </Panel>
+        <Panel as="section" className="prose-section">
+          <SectionHeading
+            index="02"
+            label="FIELD NOTE"
+            title="Where the knowledge comes from."
+          />
           <p>
             Species profiles draw on university extension and botanical
             resources. Taxonomic synonyms are retained where nursery labels and
@@ -908,9 +801,13 @@ function About() {
             Genus-level sources are identified as such. Data notes distinguish
             unresolved details from reviewed material.
           </p>
-        </section>
-        <section id="safety">
-          <h2>A careful note on safety.</h2>
+        </Panel>
+        <Panel as="section" className="prose-section" id="safety">
+          <SectionHeading
+            index="03"
+            label="FIELD NOTE"
+            title="A careful note on safety."
+          />
           <p>
             “Pet-friendly” means listed as non-toxic to cats and dogs, not safe
             to eat. Any plant material may cause gastrointestinal upset.
@@ -929,9 +826,13 @@ function About() {
             need floor space and pruning. Conditions and cultivar can change the
             mature size substantially.
           </p>
-        </section>
-        <section>
-          <h2>Open questions, openly marked.</h2>
+        </Panel>
+        <Panel as="section" className="prose-section">
+          <SectionHeading
+            index="04"
+            label="FIELD NOTE"
+            title="Open questions, openly marked."
+          />
           <p>
             Accuracy takes precedence over false certainty. The following
             profiles contain explicit verification notes. Unverified pet safety
@@ -945,9 +846,13 @@ function About() {
               </li>
             ))}
           </ul>
-        </section>
-        <section>
-          <h2>Credits & privacy.</h2>
+        </Panel>
+        <Panel as="section" className="prose-section">
+          <SectionHeading
+            index="05"
+            label="FIELD NOTE"
+            title="Credits & privacy."
+          />
           <p>
             Built with React, TypeScript, and Vite. Manrope by Mikhail Sharanda
             and DM Mono by Colophon Foundry are bundled locally under the SIL
@@ -956,21 +861,22 @@ function About() {
             complete notices.
           </p>
           <p>
-            Only your theme choice is saved locally in this browser. Search and
-            filters can appear in the URL so you can share the view. Nothing is
-            sent to an application server.
+            Your theme choice and preferred library view are saved locally in
+            this browser. Search and filters can appear in the URL so you can
+            share the view. Nothing is sent to an application server.
           </p>
           <a href="https://github.com/naumansaeed0/Rootwise">
             View the source on GitHub
           </a>
-        </section>
+        </Panel>
       </div>
     </div>
   );
 }
 function NotFound({ plant = false }: { plant?: boolean }) {
   return (
-    <div className="not-found">
+    <Panel className="not-found">
+      <ReadoutLabel index="00">ROOTWISE / RECORD NOT LOCATED</ReadoutLabel>
       <span className="eyebrow">
         {plant ? "PLANT NOT FOUND" : "404 / A LITTLE OFF THE PATH"}
       </span>
@@ -993,7 +899,7 @@ function NotFound({ plant = false }: { plant?: boolean }) {
           Back to the beginning
         </a>
       </div>
-    </div>
+    </Panel>
   );
 }
 export default function App() {
@@ -1024,7 +930,7 @@ export default function App() {
         {current === "home" ? (
           <Home />
         ) : current === "library" ? (
-          <Library />
+          <Library initialParams={params} />
         ) : current === "plant" ? (
           <PlantDetail />
         ) : current === "guides" ? (

@@ -4,3 +4,6 @@ dist/
 *.local
 
 .ssr/
+
+test-results/
+playwright-report/

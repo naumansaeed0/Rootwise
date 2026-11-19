@@ -1,5 +1,7 @@
 import type { CSSProperties } from "react";
 const paths: Record<string, string> = {
+  grid: "M3 3h7v7H3ZM14 3h7v7h-7ZM3 14h7v7H3ZM14 14h7v7h-7Z",
+  list: "M8 5h13M8 12h13M8 19h13M3 5h1M3 12h1M3 19h1",
   leaf: "M19 4C10 2 3 7 5 14c2 7 13 7 14-10ZM5 20 16 9M10 15l-1-5m4 2 4 1",
   sun: "M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8ZM12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5",
   moon: "M20 15A9 9 0 0 1 9 4 9 9 0 1 0 20 15Z",

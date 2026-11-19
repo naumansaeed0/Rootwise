@@ -1,0 +1,784 @@
+[
+  {
+    "theme": "dark",
+    "records": [
+      {
+        "name": "Pothos",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Snake plant",
+        "palette": "desert",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "ZZ plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Monstera deliciosa",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Peace lily",
+        "palette": "bloom",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Spider plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Rubber plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Fiddle-leaf fig",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Aloe vera",
+        "palette": "desert",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Boston fern",
+        "palette": "forest",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Heartleaf philodendron",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Velvet-leaf philodendron",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Swiss cheese vine",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Satin pothos",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Arrowhead vine",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Chinese evergreen",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Dumb cane",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Elephant ear",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Anthurium",
+        "palette": "bloom",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Prayer plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Rattlesnake plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Round-leaf calathea",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Peacock plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Cast iron plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Baby rubber plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Watermelon peperomia",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Chinese money plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Polka dot plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Nerve plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Parlor palm",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Areca palm",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Kentia palm",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Ponytail palm",
+        "palette": "desert",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Weeping fig",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Dragon tree",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Corn plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Money tree",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Umbrella tree",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Bird of paradise",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Jade plant",
+        "palette": "desert",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Zebra haworthia",
+        "palette": "desert",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Echeveria",
+        "palette": "desert",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "String of pearls",
+        "palette": "desert",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Burro's tail",
+        "palette": "desert",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Christmas cactus",
+        "palette": "bloom",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Wax plant",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Purple heart",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "English ivy",
+        "palette": "canopy",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Bird's nest fern",
+        "palette": "forest",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Maidenhair fern",
+        "palette": "forest",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Staghorn fern",
+        "palette": "forest",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Moth orchid",
+        "palette": "bloom",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "African violet",
+        "palette": "bloom",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Flaming Katy",
+        "palette": "bloom",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Bromeliad",
+        "palette": "bloom",
+        "minimumRatio": 7.1941263560291056,
+        "failures": [],
+        "checkedTextPairs": 14
+      }
+    ],
+    "minimumRatio": 7.1941263560291056
+  },
+  {
+    "theme": "light",
+    "records": [
+      {
+        "name": "Pothos",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Snake plant",
+        "palette": "desert",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "ZZ plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Monstera deliciosa",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Peace lily",
+        "palette": "bloom",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Spider plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Rubber plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Fiddle-leaf fig",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Aloe vera",
+        "palette": "desert",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Boston fern",
+        "palette": "forest",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Heartleaf philodendron",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Velvet-leaf philodendron",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Swiss cheese vine",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Satin pothos",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Arrowhead vine",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Chinese evergreen",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Dumb cane",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Elephant ear",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Anthurium",
+        "palette": "bloom",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Prayer plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Rattlesnake plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Round-leaf calathea",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Peacock plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Cast iron plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Baby rubber plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Watermelon peperomia",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Chinese money plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Polka dot plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Nerve plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Parlor palm",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Areca palm",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Kentia palm",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Ponytail palm",
+        "palette": "desert",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Weeping fig",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Dragon tree",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Corn plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Money tree",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Umbrella tree",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Bird of paradise",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Jade plant",
+        "palette": "desert",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Zebra haworthia",
+        "palette": "desert",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Echeveria",
+        "palette": "desert",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "String of pearls",
+        "palette": "desert",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Burro's tail",
+        "palette": "desert",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Christmas cactus",
+        "palette": "bloom",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Wax plant",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Purple heart",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "English ivy",
+        "palette": "canopy",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Bird's nest fern",
+        "palette": "forest",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Maidenhair fern",
+        "palette": "forest",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Staghorn fern",
+        "palette": "forest",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Moth orchid",
+        "palette": "bloom",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "African violet",
+        "palette": "bloom",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Flaming Katy",
+        "palette": "bloom",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      },
+      {
+        "name": "Bromeliad",
+        "palette": "bloom",
+        "minimumRatio": 5.392482724482452,
+        "failures": [],
+        "checkedTextPairs": 14
+      }
+    ],
+    "minimumRatio": 5.392482724482452
+  }
+]

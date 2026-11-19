@@ -1,0 +1,62 @@
+[
+  {
+    "state": "library-collapsed",
+    "theme": "light",
+    "violations": [],
+    "passes": 25,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 56
+      }
+    ]
+  },
+  {
+    "state": "library-expanded",
+    "theme": "light",
+    "violations": [],
+    "passes": 25,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 56
+      }
+    ]
+  },
+  {
+    "state": "library-list",
+    "theme": "light",
+    "violations": [],
+    "passes": 28,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 26
+      }
+    ]
+  },
+  {
+    "state": "plant",
+    "theme": "light",
+    "violations": [],
+    "passes": 29,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 13
+      }
+    ]
+  },
+  {
+    "state": "home",
+    "theme": "light",
+    "violations": [],
+    "passes": 19,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 24
+      }
+    ]
+  }
+]

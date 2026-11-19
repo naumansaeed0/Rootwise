@@ -108,3 +108,30 @@ All normal links/assets are relative; Vite uses `base: './'`. Pages are flat fil
 ## Verification limits
 
 Unit tests cover common/scientific/alternate-name search, combined filters, safety exclusions, record completeness, and verification notes. Build checks verify 62 pages, local links/assets, unique plant titles, crawler files, licenses, and the 404 base. These do not replace a browser accessibility or performance audit. See `docs/report.md` for the actual checks completed in this environment and remaining limitations.
+
+## Round 2: specimen interface
+
+The library now has a shared instrument design system, stable specimen codes, visual care/safety readouts, a filter console, and a persistent grid/list switch. The same primitives are used by plant records, care guides, evidence, credits, navigation, and the 404 screen. Plant data, filtering rules, routes, and `src/living-plant/` remain unchanged.
+
+- [Design system and component examples](docs/design-system.md)
+- [Round 2 implementation, measurements, and publication report](docs/round-2-report.md)
+- [Raw browser/accessibility/Lighthouse reports](docs/audits/)
+
+`src/pages/Library.tsx` owns the library presentation; `src/library/preferences.ts` owns the guarded `rootwise-library-view` storage key. Search/filters still live in the URL. Reset clears those conditions while keeping the chosen view and theme. Only `grid`/`list` and theme are stored locally; storage denial does not prevent use.
+
+With system Chromium installed (or `CHROME_PATH` pointing to your executable):
+
+```sh
+npm run verify
+npm run test:browser
+```
+
+The browser suite starts the production preview on port 4174 if needed. For the mobile Lighthouse runs, keep that preview running:
+
+```sh
+npm run preview -- --port 4174 --strictPort
+# In another terminal:
+npm run audit:mobile
+```
+
+Audit outputs are written to `docs/audits/`. Browser screenshots are saved under `/workspace/shared/rootwise-round2/` in the managed environment. The suite documents one inherited desktop hero naming exception rather than silently treating the entire site as conformant.
